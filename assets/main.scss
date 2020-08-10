@@ -3,3 +3,44 @@
 ---
 
 @import "styles";
+
+.my-main-nav {
+  background-image: url('/img/banner.jpg');
+  background-size: cover;
+}
+
+.my-top-margin {
+  margin-bottom: 100px;
+  @media only screen and (max-width: 576px) {
+    margin-bottom: 80px;
+  }
+}
+
+.my-profile-picture {
+  @media only screen and (max-width: 576px) {
+    max-width: 50%;
+    margin-bottom: 10px;
+  }
+}
+
+
+.my-pub-section {
+  background-color: $gray-100;
+}
+
+.my-pub-heading {
+  font-weight: bold;
+}
+
+.my-pub-summary {
+  font-weight: lighter;
+  color:$gray-600;
+}
+
+.my-pub-main{
+  >div.my-pub-r{
+    > p{
+      margin: 0;
+    }
+  }
+}
