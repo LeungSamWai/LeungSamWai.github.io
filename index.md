@@ -6,6 +6,7 @@ layout: home
 <div class="col-md-4 col-sm-4">
 <div class="text-center">
 <img src="/img/sample.jpg" class="rounded-circle img-fluid my-profile-picture" alt="my picture">
+senwei
 </div>
 </div>
 
