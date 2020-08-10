@@ -52,11 +52,11 @@ My name is ABC
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading">DEEP LEARNING WITH GRAPH-STRUCTURED REPRESENTATIONS</p>
-<p class="my-pub-summary">PHD THESIS (2020), UNIVERSITY OF AMSTERDAM</p>
+<p class="my-pub-heading">Paper title</p>
+<p class="my-pub-summary">summary</p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**T. Kipf**, Y. Li, H. Dai, V. Zambaldi, A. Sanchez-Gonzales, E. Grefenstette, P. Kohli, P. Battaglia, **CompILE: Compositional Imitation Learning and Execution**, (ICML 2019), Long Oral [Link, [PDF (arXiv)](https://arxiv.org/pdf/1911.12247.pdf)].
+**123**,authors, **123**, (ICML), Long Oral [Link, [PDF (arXiv)](https://google.com)].
 </p>
 </div>
 </div>
