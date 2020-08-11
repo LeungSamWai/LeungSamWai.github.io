@@ -1,0 +1,105 @@
+I"<div class="row justify-content-md-center" style="margin-bottom: 20px;">
+<div class="col-md-4 col-sm-4">
+<div class="text-center">
+<img src="/img/photo.png" class="rounded-circle img-fluid my-profile-picture" alt="my picture" />
+<p class="my-name">Senwei</p>
+<p class="my-position">PhD Candidate</p>
+</div>
+</div>
+
+<div class="col-md-7 col-sm-7">
+    <p>Hello, welcome to my page. My name is <em>Senwei Liang</em> from Guangdong, China. I joined Purdue University in Spring 2020 and I am pursuing PhD degree here, under the supervision of Prof. <a href="https://google.com"><em>Haizhao Yang</em></a>. Previously, I obtained my MSc degree in National University of 
+Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses on solving the differential equation using deep neural networks. Besides, I am interested in</p>
+
+    <ul>
+      <li>Understanding of Batch Normalization</li>
+      <li>Regularization of machine learning</li>
+    </ul>
+  </div>
+</div>
+
+<h3 class="text-center">NEWS</h3>
+
+<ul>
+  <li>[08/10/2020] Project ‘Road Network Prediction’ in progress</li>
+  <li>[08/10/2020] Project ‘Estimation of density function’ in progress</li>
+</ul>
+
+<h3 class="text-center">SELECTED PUBLICATIONS</h3>
+
+<hr />
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/lstm_cell.png" class="rounded img-fluid my-profile-picture" />
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2019) Machine learning for prediction with missing dynamics</p>
+<p class="my-pub-summary">We propose a framework that reformulates the prediction problem as a supervised learning problem to approximate a map that takes the memories of the resolved and identifiable unresolved variables to the missing components in the resolved dynamics.</p>
+<div style="margin-bottom: 10px;"></div>
+<p>
+J Harlim, SW Jiang, <strong>S Liang</strong>, H Yang, submitted, [<a href="https://arxiv.org/pdf/1910.05861.pdf">PDF</a>].
+</p>
+</div>
+</div>
+
+<hr />
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/iebn.png" class="rounded img-fluid my-profile-picture" />
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2019) Instance Enhancement Batch Normalization: An Adaptive Regulator of Batch Noise</p>
+<p class="my-pub-summary">We point out that self-attention mechanism can help to regulate the noise by enhancing instance-specific information and propose a normalization that recalibrates the information of each channel by a simple linear transformation.</p>
+<div style="margin-bottom: 10px;"></div>
+<p>
+<strong>S Liang</strong>, Z Huang, M Liang, H Yang, AAAI-2020, [<a href="https://arxiv.org/abs/1908.04008">PDF</a>, <a href="https://github.com/gbup-group/IEBN">Code</a>].
+</p>
+</div>
+</div>
+
+<hr />
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/dia.png" class="rounded img-fluid my-profile-picture" />
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2019) DIANet: Dense-and-Implicit Attention Network</p>
+<p class="my-pub-summary">We propose a framework that shares an attention module throughout different network layers to encourage the integration of layer-wise information. </p>
+<div style="margin-bottom: 10px;"></div>
+<p>
+Z Huang, <strong>S Liang</strong>, M Liang, H Yang, AAAI-2020, [<a href="https://arxiv.org/abs/1905.10671">PDF</a>, <a href="https://github.com/gbup-group/DIANet">Code</a>].
+</p>
+</div>
+</div>
+
+<hr />
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/dropact.png" class="rounded img-fluid my-profile-picture" />
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2018) Drop-activation: Implicit parameter reduction and harmonic regularization</p>
+<p class="my-pub-summary">The key idea is to
+drop nonlinear activation functions by setting them to be identity functions randomly during training time. </p>
+<div style="margin-bottom: 10px;"></div>
+<p>
+<strong>S Liang</strong>, Y Khoo, H Yang, Communications on Applied Mathematics and Computation, [<a href="https://arxiv.org/pdf/1811.05850.pdf">PDF</a>, <a href="https://github.com/LeungSamWai/Drop-Activation">Code</a>].
+</p>
+</div>
+</div>
+
+<hr />
+
+:ET

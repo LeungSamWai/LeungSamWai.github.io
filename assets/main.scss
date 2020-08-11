@@ -6,7 +6,10 @@
 
 .my-main-nav {
   background-image: url('/img/banner.jpg');
-  background-size: cover;
+  background-size: auto;
+  @media only screen and (min-width: 960px) {
+	background-size: 100%;
+  }
 }
 
 .my-top-margin {
@@ -19,7 +22,7 @@
 .my-profile-picture {
   @media only screen and (max-width: 576px) {
     max-width: 50%;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
 }
 
@@ -35,6 +38,20 @@
 .my-pub-summary {
   font-weight: lighter;
   color:$gray-600;
+}
+
+.my-position {
+  margin-top:5px;
+  font-weight: lighter;
+  color:$gray-600;
+  font-size: 20px;
+}
+
+.my-name {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 5px;
 }
 
 .my-pub-main{
