@@ -20,5 +20,17 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
   {% include scripts.html %}
+	
+  {% if jekyll.environment == "production" %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140862400-2"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-140862400-2');
+	</script>
+  {% endif %}	
 
 </head>
