@@ -24,8 +24,10 @@ My google scholar is [here](https://scholar.google.com/citations?user=NLNoSBsAAA
 
 <h3 class="text-center">NEWS</h3>
 
-- \[08/10/2020\] Project 'Road Network Prediction' in progress
-- \[08/10/2020\] Project 'Estimation of density function' in progress
+- \[10/10/2020\] Project 'Solving PDE via Deep Learning' in progress
+- \[10/10/2020\] Project 'Efficient Attention Network' in progress
+- \[10/10/2020\] Project 'Road Network Prediction' in progress
+- \[10/10/2020\] Project 'Estimation of density function' in progress
 
 <h3 class="text-center">SELECTED PUBLICATIONS</h3>
 
@@ -42,7 +44,7 @@ My google scholar is [here](https://scholar.google.com/citations?user=NLNoSBsAAA
 <p class="my-pub-summary">We propose a framework that reformulates the prediction problem as a supervised learning problem to approximate a map that takes the memories of the resolved and identifiable unresolved variables to the missing components in the resolved dynamics.</p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-J Harlim, SW Jiang, **S Liang**, H Yang, submitted, [[PDF](https://arxiv.org/pdf/1910.05861.pdf)].
+J Harlim, SW Jiang, **S Liang**, H Yang, J. Comp. Phys., [[PDF](https://arxiv.org/pdf/1910.05861.pdf)].
 </p>
 </div>
 </div>
