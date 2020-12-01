@@ -37,7 +37,7 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2020) Efficient Attention Network: Accelerate Attention by Searching Where to Plug</p>
-<p class="my-pub-summary">Efficient Attention Network (EAN) is a framework to improve the efficiency for the existing attention modules. In EAN, we leverage the sharing mechanism to share the attention module within the backbone and search where to connect the shared attention module via reinforcement learning. </p>
+<p class="my-pub-summary">Efficient Attention Network is a framework to improve the efficiency for the existing attention modules. We leverage the sharing mechanism to share the attention module within the backbone and search where to connect the shared attention module via reinforcement learning. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 Z Huang, **S Liang**, M Liang, W He, H Yang, Submitted [[Paper](https://arxiv.org/abs/2011.14058)] [[Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
