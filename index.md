@@ -32,12 +32,52 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
 <div class="text-center">
+<img src="/img/ean.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2020) Efficient Attention Network: Accelerate Attention by Searching Where to Plug</p>
+<p class="my-pub-summary">Efficient Attention Network (EAN) is a framework to improve the efficiency for the existing attention modules. In EAN, we leverage the sharing mechanism to share the attention module within the backbone and search where to connect the shared attention module via reinforcement learning. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+Z Huang, **S Liang**, M Liang, W He, H Yang, Submitted [[Paper](https://arxiv.org/abs/2011.14058)] [[Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
+</p>
+</div>
+</div>
+
+<hr>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
 <img src="/img/urn.png" class="rounded img-fluid my-profile-picture">
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2020) Quantifying spatial homogeneity of urban road networks via graph neural networks</p>
-<p class="my-pub-summary">we borrow the power of Graph Neural Networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties, such as degree, betweenness, road type, and a strong indicator of mixed socio-economic events, such as GDP and populations. </p>
+<p class="my-pub-summary">we borrow the power of Graph Neural Networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+J Xue, N Jiang, **S Liang**, Q Pang, S Ukkusuri, J Ma, Submitted [[Code](https://github.com/jiang719/road-network-predictability)].
+</p>
+</div>
+</div>
+
+<hr>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/urn.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2020) Quantifying spatial homogeneity of urban road networks via graph neural networks</p>
+<p class="my-pub-summary">we borrow the power of Graph Neural Networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 J Xue, N Jiang, **S Liang**, Q Pang, S Ukkusuri, J Ma, Submitted [[Code](https://github.com/jiang719/road-network-predictability)].
