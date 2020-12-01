@@ -40,7 +40,7 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 <p class="my-pub-summary"> To improve the efficiency for the existing attention modules, we leverage the sharing mechanism to share the attention module within the backbone and search where to connect the shared attention module via reinforcement learning. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-Z Huang, **S Liang**, M Liang, W He, H Yang, Submitted [[Paper](https://arxiv.org/abs/2011.14058)] [[Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
+Z Huang, **S Liang**, M Liang, W He, H Yang, Submitted [[PDF](https://arxiv.org/abs/2011.14058)], [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
 </p>
 </div>
 </div>
