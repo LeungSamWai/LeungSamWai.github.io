@@ -14,7 +14,7 @@ layout: home
 <div class="col-md-7 col-sm-7" markdown="1">
 Hello, welcome to my page. My name is *Senwei Liang* from Guangdong, China. I joined Purdue University in Spring 2020 and I am pursuing PhD degree here, under the supervision of Prof. [*Haizhao Yang*](https://google.com). Previously, I obtained my MSc degree in National University of 
 Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses on solving the differential equation using deep neural networks, designing efficient and effective neural network architecture, and application of neural networks.
-[Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN).
+[Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN). [Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634). 
 </div>
 </div>
 
@@ -26,6 +26,26 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 - \[12/01/2020\] Project 'Estimation of density function' in progress
 
 <h3 class="text-center">SELECTED PUBLICATIONS</h3>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/urn.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2020) Quantifying spatial homogeneity of urban road networks via graph neural networks</p>
+<p class="my-pub-summary">we borrow the power of Graph Neural Networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties, such as degree, betweenness, road type, and a strong indicator of mixed socio-economic events, such as GDP and populations. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+J Xue, N Jiang, **S Liang**, Q Pang, S Ukkusuri, J Ma, Submitted [[Code](https://github.com/jiang719/road-network-predictability)].
+</p>
+</div>
+</div>
+
+<hr>
 
 <hr>
 
