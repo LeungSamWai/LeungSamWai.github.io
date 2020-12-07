@@ -25,6 +25,10 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 - \[12/01/2020\] Project 'Solving PDE via Deep Learning' in progress
 - \[12/01/2020\] Project 'Estimation of density function' in progress
 
+<h3 class="text-center">ACADEMIC SERVICE</h3>
+
+- Reviewer of AAAI2021, CVPR2021
+
 <h3 class="text-center">SELECTED PUBLICATIONS</h3>
 
 <hr>
@@ -47,8 +51,6 @@ Z Huang, **S Liang**, M Liang, W He, H Yang, Submitted [[PDF](https://arxiv.org/
 
 <hr>
 
-<hr>
-
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
 <div class="text-center">
@@ -57,15 +59,13 @@ Z Huang, **S Liang**, M Liang, W He, H Yang, Submitted [[PDF](https://arxiv.org/
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2020) Quantifying spatial homogeneity of urban road networks via graph neural networks</p>
-<p class="my-pub-summary">we borrow the power of Graph Neural Networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties. </p>
+<p class="my-pub-summary">We borrow the power of Graph Neural Networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 J Xue, N Jiang, **S Liang**, Q Pang, S Ukkusuri, J Ma, Submitted [[Code](https://github.com/jiang719/road-network-predictability)].
 </p>
 </div>
 </div>
-
-<hr>
 
 <hr>
 
