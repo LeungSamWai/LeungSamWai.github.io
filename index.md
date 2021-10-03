@@ -12,7 +12,7 @@ layout: home
 </div>
 
 <div class="col-md-7 col-sm-7" markdown="1">
-Hello, welcome to my page. My name is *Senwei Liang* from Guangdong, China. I joined Purdue University in Spring 2020 and I am pursuing PhD degree here, under the supervision of Prof. [*Haizhao Yang*](https://google.com). Previously, I obtained my MSc degree in National University of 
+Hello, welcome to my page. My name is *Senwei Liang* from China. I joined Purdue University in Spring 2020 and I am pursuing PhD degree here, under the supervision of Prof. [*Haizhao Yang*](https://google.com). Previously, I obtained my MSc degree in National University of 
 Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses on solving the differential equation using deep neural networks, designing efficient and effective neural network architecture, and application of neural networks.
 [Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN). [Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634). 
 </div>
@@ -21,9 +21,7 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 
 <h3 class="text-center">NEWS</h3>
 
-- \[12/01/2020\] Project 'Continual Learning' in progress
-- \[12/01/2020\] Project 'Solving PDE via Deep Learning' in progress
-- \[12/01/2020\] Project 'Estimation of density function' in progress
+- \[10/03/2021\] Project 'Solving PDE with Reinforcement Learning' in progress
 
 <h3 class="text-center">ACADEMIC SERVICE</h3>
 
