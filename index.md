@@ -33,6 +33,7 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 
 - Conference reviewer: AAAI2021, CVPR2021, 2022, ICANN2021
 - Journal reviewer: Journal of Scientific Computing
+- Organizer: AMS Sectional meeting at Purdue, the SIAM Texas-Louisiana Section
 
 <h3 class="text-center">SELECTED PUBLICATIONS</h3>
 
