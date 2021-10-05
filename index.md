@@ -32,7 +32,7 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 <h3 class="text-center">ACADEMIC SERVICE</h3>
 
 - Conference reviewer: AAAI2021, CVPR2021, 2022, ICANN2021
--
+- Journal reviewer: Journal of Scientific Computing
 
 <h3 class="text-center">SELECTED PUBLICATIONS</h3>
 
