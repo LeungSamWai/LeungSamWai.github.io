@@ -12,12 +12,14 @@ layout: home
 </div>
 
 <div class="col-md-7 col-sm-7" markdown="1">
-Hello, welcome to my page. My name is *Senwei Liang* from China. I joined Purdue University in Spring 2020 and I am pursuing PhD degree here, under the supervision of Prof. [*Haizhao Yang*](https://google.com). Previously, I obtained my MSc degree in National University of 
+Hello, welcome to my page. My name is *Senwei Liang* from China. I joined Purdue University in Spring 2020 and I am pursuing PhD degree here, under the supervision of Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/). Previously, I obtained my MSc degree in National University of 
 Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses on solving the differential equation using deep neural networks, designing efficient and effective neural network architecture, and application of neural networks.
 
-[Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN).
-[Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634). 
-[ResearchGate](https://www.researchgate.net/profile/Senwei-Liang).
+[Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN); 
+[Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634);
+
+[ResearchGate](https://www.researchgate.net/profile/Senwei-Liang);
+[Github](https://leungsamwai.github.io/). ![996.ICU](https://img.shields.io/badge/link-996.icu-red.svg)
 </div>
 </div>
 
@@ -29,7 +31,8 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 
 <h3 class="text-center">ACADEMIC SERVICE</h3>
 
-- Reviewer of AAAI2021, CVPR2021
+- Conference reviewer: AAAI2021, CVPR2021, 2022, ICANN2021
+-
 
 <h3 class="text-center">SELECTED PUBLICATIONS</h3>
 
