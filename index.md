@@ -37,6 +37,7 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 
 <h3 class="text-center">Selected Publications or Manuscripts</h3>
 
+
 <hr>
 
 <div class="row my-pub-main">
@@ -53,6 +54,24 @@ least-squares method. We establish the convergence of the proposed scheme. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 Y. Gu, J. Harlim, S. Liang, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2109.03992.pdf)].
+</p>
+</div>
+</div>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/semi.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2021) Solving PDEs on Unknown Manifolds with Machine Learning </p>
+<p class="my-pub-summary">We propose a mesh-free computational framework and machine learning theory for solving elliptic PDEs on unknown manifolds, identified with point clouds, based on diffusion maps (DM) and deep learning. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+S. Liang, S. Jiang, J. Harlim, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2106.06682.pdf)].
 </p>
 </div>
 </div>
