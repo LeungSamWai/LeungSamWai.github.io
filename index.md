@@ -14,7 +14,9 @@ layout: home
 
 <div class="col-md-7 col-sm-7" markdown="1">
 Hello, welcome to my page. I am *Senwei Liang* from China. I joined Purdue University in Spring 2020 and I am pursuing PhD degree here, under the supervision of Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/). Previously, I obtained my MSc degree in National University of 
-Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses on solving the differential equations with deep learning, designing efficient and effective neural network architectures, and application of neural networks on scientific computing.
+Singapore and BSc degree in Sun Yat-sen University. 
+
+**Research Interest:** solving the differential equations with deep learning; designing efficient and effective network architectures; application of neural networks on scientific computing.
 
 [Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN); 
 [Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634);
@@ -32,8 +34,8 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 
 <h3 class="text-center">Internship</h3>
 
-- Wallace Givens Associate at Argonne National Laboratory mentored by [Dr. Hong Zhang](https://caidao22.github.io/), May 2021 to Jul 2021.
-- Research Assistant at Computational Medical Imaging Laboratory mentored by [Prof. Yao Lu](https://ieeexplore.ieee.org/author/37086386972), Jun 2016 to Jan 2017.
+- Wallace Givens Associate at Argonne National Laboratory mentored by [Dr. Hong Zhang](https://caidao22.github.io/), from May 2021 to Jul 2021.
+- Research Assistant at Computational Medical Imaging Laboratory mentored by [Prof. Yao Lu](https://ieeexplore.ieee.org/author/37086386972), from Jun 2016 to Jan 2017.
 
 <hr>
 
