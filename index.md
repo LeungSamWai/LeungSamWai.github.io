@@ -30,6 +30,13 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 
 <hr>
 
+<h3 class="text-center">Internship</h3>
+
+- Wallace Givens Associate at Argonne National Laboratory mentored by [Dr. Hong Zhang](https://caidao22.github.io/), May 2021 to Jul 2021.
+- Research Assistant at Computational Medical Imaging Laboratory mentored by [Prof. Yao Lu](https://ieeexplore.ieee.org/author/37086386972), Jun 2016 to Jan 2017.
+
+<hr>
+
 <h3 class="text-center">Academic Service</h3>
 
 - Conference reviewer: AAAI2021, CVPR2021, 2022, ICANN2021
