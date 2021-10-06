@@ -17,25 +17,45 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 
 [Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN); 
 [Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634);
-
 [ResearchGate](https://www.researchgate.net/profile/Senwei-Liang);
-[Github](https://leungsamwai.github.io/). ![996.ICU](https://img.shields.io/badge/link-996.icu-red.svg)
+[Github](https://leungsamwai.github.io/). 
 </div>
 </div>
 
 
-<h3 class="text-center">NEWS</h3>
+<h3 class="text-center">News</h3>
 
 - :rocket: Open to job market! 
 - \[10/03/2021\] Project 'Solving PDE with Reinforcement Learning' in progress
 
-<h3 class="text-center">ACADEMIC SERVICE</h3>
+<h3 class="text-center">Academic Service</h3>
 
 - Conference reviewer: AAAI2021, CVPR2021, 2022, ICANN2021
 - Journal reviewer: Journal of Scientific Computing
 - Organizer: AMS Sectional meeting at Purdue, the SIAM Texas-Louisiana Section
+- Assistant: IMA Workshop at Purdue
 
-<h3 class="text-center">SELECTED PUBLICATIONS</h3>
+<h3 class="text-center">Selected Publications or Manuscripts</h3>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/ean.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2021) Stationary Density Estimation of Itô Diffusions Using Deep Learning</p>
+<p class="my-pub-summary">we consider the density estimation problem associated with the stationary measure of ergodic Itô diffusions from a discrete-time series that approximate the solutions of the stochastic
+differential equations. First, we employ deep neural networks to approximate the drift and diffusion terms of the SDE by solving appropriate supervised learning tasks. Subsequently, we solve a steady-state Fokker-Plank equation associated with the estimated drift and diffusion coefficients with a neural-network-based
+least-squares method. We establish the convergence of the proposed scheme. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+Y. Gu, J. Harlim, S. Liang, H. Yang, Submitted [PDF](https://arxiv.org/pdf/2109.03992.pdf).
+</p>
+</div>
+</div>
 
 <hr>
 
