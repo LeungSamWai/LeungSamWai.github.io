@@ -125,7 +125,7 @@ Z. Huang, **S. Liang**, M. Liang, W. He, H. Yang, Submitted (Joint first author)
 <p class="my-pub-summary">  We propose a novel framework to integrate the existing filter pruning criteria by exploring the criteria diversity. The proposed framework contains two stages: Criteria Clustering and Filters Importance Calibration. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-W. He, Z. Huang, M. Liang, **S. Liang**, H. Yang, ICANN 2021 [[PDF](https://arxiv.org/abs/2011.14058), [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
+W. He, Z. Huang, M. Liang, **S. Liang**, H. Yang, ICANN 2021 [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-86380-7_1)].
 </p>
 </div>
 </div>
@@ -161,7 +161,7 @@ J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Submitted 
 <p class="my-pub-summary">We propose a framework that reformulates the prediction problem as a supervised learning problem to approximate a map that takes the memories of the resolved and identifiable unresolved variables to the missing components in the resolved dynamics.</p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-J. Harlim, S. Jiang, **S. Liang**, H. Yang, J. Comput. Phys., (Alphabetical order) [[PDF](https://arxiv.org/pdf/1910.05861.pdf)].
+J. Harlim, S. Jiang, **S. Liang**, H. Yang, J. Comput. Phys., (Alphabetical order) [[PDF](https://www.sciencedirect.com/science/article/pii/S0021999120306963)].
 </p>
 </div>
 </div>
