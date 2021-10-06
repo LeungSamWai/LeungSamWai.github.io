@@ -25,7 +25,7 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 <hr>
 <h3 class="text-center" markdown="1">News</h3>
 
-- :rocket: Open to job market! 
+- :rocket: :muscle: Open to job market! 
 - \[10/03/2021\] Project 'Solving PDE with Reinforcement Learning' in progress
 
 <hr>
