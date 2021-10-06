@@ -81,7 +81,7 @@ S. Liang, S. Jiang, J. Harlim, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
 <div class="text-center">
-<img src="/img/semi.png" class="rounded img-fluid my-profile-picture">
+<img src="/img/bach.png" class="rounded img-fluid my-profile-picture">
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
