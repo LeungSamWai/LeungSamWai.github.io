@@ -8,6 +8,7 @@ layout: home
 <img src="/img/photo.png" class="rounded-circle img-fluid my-profile-picture" alt="my picture">
 <p class="my-name">Senwei</p>
 <p class="my-position">PhD Student</p>
+<p class="my-cv">[CV](/img/cv.pdf) (update on 10/06/2021)</p>
 </div>
 </div>
 
@@ -23,10 +24,6 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 </div>
 
 <hr>
-<h3 class="text-center">My CV</h3>
-[CV](/img/cv.pdf) (update on 10/06/2021)
-<hr>
-
 <h3 class="text-center">News</h3>
 
 - :rocket: Open to job market! 
