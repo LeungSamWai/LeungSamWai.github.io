@@ -124,7 +124,7 @@ Z. Huang, **S. Liang**, M. Liang, W. He, H. Yang, Submitted (Joint first author)
 <p class="my-pub-summary">  We propose a novel framework to integrate the existing filter pruning criteria by exploring the criteria diversity. The proposed framework contains two stages: Criteria Clustering and Filters Importance Calibration. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-W. He, Z. Huang, M. Liang, S. Liang, H. Yang, ICANN 2021 [[PDF](https://arxiv.org/abs/2011.14058), [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
+W. He, Z. Huang, M. Liang, **S. Liang**, H. Yang, ICANN 2021 [[PDF](https://arxiv.org/abs/2011.14058), [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
 </p>
 </div>
 </div>
@@ -142,7 +142,7 @@ W. He, Z. Huang, M. Liang, S. Liang, H. Yang, ICANN 2021 [[PDF](https://arxiv.or
 <p class="my-pub-summary">We borrow the power of Graph Neural Networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Submitted [[Code](https://github.com/jiang719/road-network-predictability)].
+J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Submitted [[Code](https://github.com/jiang719/road-network-predictability), [PDF](https://arxiv.org/abs/2101.00307)].
 </p>
 </div>
 </div>
