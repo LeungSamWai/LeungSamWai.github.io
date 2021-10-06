@@ -18,13 +18,12 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 
 [Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN); 
 [Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634);
-[ResearchGate](https://www.researchgate.net/profile/Senwei-Liang);
 [Github](https://leungsamwai.github.io/). 
 </div>
 </div>
 
 <hr>
-<h3 class="text-center">News</h3>
+<h3 class="text-center" markdown="1">News</h3>
 
 - :rocket: Open to job market! 
 - \[10/03/2021\] Project 'Solving PDE with Reinforcement Learning' in progress
@@ -40,7 +39,7 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 
 <hr>
 <h3 class="text-center">Publications or Manuscripts</h3>
-
+<hr>
 
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
