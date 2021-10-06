@@ -35,7 +35,7 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 - Organizer: AMS Sectional meeting at Purdue, the SIAM Texas-Louisiana Section
 - Assistant: IMA Workshop at Purdue
 
-<h3 class="text-center">Selected Publications or Manuscripts</h3>
+<h3 class="text-center">Publications or Manuscripts</h3>
 
 
 <hr>
@@ -106,7 +106,25 @@ S. Liang, L. Lyu, C. Wang, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2101.
 <p class="my-pub-summary"> To improve the efficiency for the existing attention modules, we leverage the sharing mechanism to share the attention module within the backbone and search where to connect the shared attention module via reinforcement learning. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-Z Huang, **S Liang**, M Liang, W He, H Yang, Submitted [[PDF](https://arxiv.org/abs/2011.14058), [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
+Z. Huang, **S. Liang**, M. Liang, W. He, H. Yang, Submitted (Joint first author) [[PDF](https://arxiv.org/abs/2011.14058), [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
+</p>
+</div>
+</div>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/blend.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2021) Blending Pruning Criteria for Convolutional Neural Networks</p>
+<p class="my-pub-summary">  We propose a novel framework to integrate the existing filter pruning criteria by exploring the criteria diversity. The proposed framework contains two stages: Criteria Clustering and Filters Importance Calibration. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+W. He, Z. Huang, M. Liang, S. Liang, H. Yang, ICANN 2021 [[PDF](https://arxiv.org/abs/2011.14058), [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
 </p>
 </div>
 </div>
@@ -142,7 +160,7 @@ J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Submitted 
 <p class="my-pub-summary">We propose a framework that reformulates the prediction problem as a supervised learning problem to approximate a map that takes the memories of the resolved and identifiable unresolved variables to the missing components in the resolved dynamics.</p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-J Harlim, SW Jiang, **S Liang**, H Yang, J. Comput. Phys., (alphabetical order) [[PDF](https://arxiv.org/pdf/1910.05861.pdf)].
+J. Harlim, S. Jiang, **S. Liang**, H. Yang, J. Comput. Phys., (Alphabetical order) [[PDF](https://arxiv.org/pdf/1910.05861.pdf)].
 </p>
 </div>
 </div>
@@ -160,7 +178,7 @@ J Harlim, SW Jiang, **S Liang**, H Yang, J. Comput. Phys., (alphabetical order) 
 <p class="my-pub-summary">We point out that self-attention mechanism can help to regulate the noise by enhancing instance-specific information and propose a normalization that recalibrates the information of each channel by a simple linear transformation.</p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S Liang**, Z Huang, M Liang, H Yang, AAAI-2020, (Joint first author) [[PDF](https://arxiv.org/abs/1908.04008), [Code](https://github.com/gbup-group/IEBN)].
+**S. Liang**, Z. Huang, M. Liang, H. Yang, AAAI-2020, (Joint first author) [[PDF](https://arxiv.org/abs/1908.04008), [Code](https://github.com/gbup-group/IEBN)].
 </p>
 </div>
 </div>
