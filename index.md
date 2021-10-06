@@ -13,7 +13,7 @@ layout: home
 </div>
 
 <div class="col-md-7 col-sm-7" markdown="1">
-Hello, welcome to my page. I am *Senwei Liang* from China. I joined Purdue University in Spring 2020 and I am pursuing PhD degree here, under the supervision of Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/). Previously, I obtained my MSc degree in National University of 
+Hello friends, welcome to my page! I am *Senwei Liang* from China. I joined Purdue University in Spring 2020 and I am pursuing PhD degree here, under the supervision of Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/). Previously, I obtained my MSc degree in National University of 
 Singapore and BSc degree in Sun Yat-sen University. 
 
 **Research Interest:** solving the differential equations with deep learning; designing efficient and effective network architectures; application of neural networks on scientific computing.
