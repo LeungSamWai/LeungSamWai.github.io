@@ -42,17 +42,17 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
 <div class="text-center">
-<img src="/img/ean.png" class="rounded img-fluid my-profile-picture">
+<img src="/img/density.png" class="rounded img-fluid my-profile-picture">
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2021) Stationary Density Estimation of Itô Diffusions Using Deep Learning</p>
-<p class="my-pub-summary">we consider the density estimation problem associated with the stationary measure of ergodic Itô diffusions from a discrete-time series that approximate the solutions of the stochastic
-differential equations. First, we employ deep neural networks to approximate the drift and diffusion terms of the SDE by solving appropriate supervised learning tasks. Subsequently, we solve a steady-state Fokker-Plank equation associated with the estimated drift and diffusion coefficients with a neural-network-based
+<p class="my-pub-summary">we consider the density estimation problem from a discrete-time series that approximate the solutions of the stochastic
+differential equations. First, we employ deep neural networks to approximate the drift and diffusion terms of the SDE. Subsequently, we solve a steady-state Fokker-Plank equation associated with the estimated drift and diffusion coefficients with a neural-network-based
 least-squares method. We establish the convergence of the proposed scheme. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-Y. Gu, J. Harlim, S. Liang, H. Yang, Submitted [PDF](https://arxiv.org/pdf/2109.03992.pdf).
+Y. Gu, J. Harlim, S. Liang, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2109.03992.pdf)].
 </p>
 </div>
 </div>
