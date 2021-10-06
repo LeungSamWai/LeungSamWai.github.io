@@ -52,7 +52,7 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 differential equations. We establish the convergence of the proposed scheme. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-Y. Gu, J. Harlim, S. Liang, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2109.03992.pdf)].
+Y. Gu, J. Harlim, S. Liang, H. Yang, Submitted, (Alphabetical order) [[PDF](https://arxiv.org/pdf/2109.03992.pdf)].
 </p>
 </div>
 </div>
@@ -70,7 +70,7 @@ Y. Gu, J. Harlim, S. Liang, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2109
 <p class="my-pub-summary">We propose a mesh-free computational framework and machine learning theory for solving elliptic PDEs on unknown manifolds, identified with point clouds, based on diffusion maps (DM) and deep learning. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-S. Liang, S. Jiang, J. Harlim, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2106.06682.pdf)].
+S. Liang, S. Jiang, J. Harlim, H. Yang, Submitted, (First author) [[PDF](https://arxiv.org/pdf/2106.06682.pdf)].
 </p>
 </div>
 </div>
@@ -88,7 +88,7 @@ S. Liang, S. Jiang, J. Harlim, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2
 <p class="my-pub-summary">We propose reproducing activation functions which employs several basic functions and their learnable linear combination to construct neuron-wise data-driven activation functions for each neuron.  </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-S. Liang, L. Lyu, C. Wang, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2101.04844.pdf)].
+S. Liang, L. Lyu, C. Wang, H. Yang, Submitted, (First author) [[PDF](https://arxiv.org/pdf/2101.04844.pdf)].
 </p>
 </div>
 </div>
@@ -102,7 +102,7 @@ S. Liang, L. Lyu, C. Wang, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2101.
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading">(2020) Efficient Attention Network: Accelerate Attention by Searching Where to Plug</p>
+<p class="my-pub-heading">(2021) Efficient Attention Network: Accelerate Attention by Searching Where to Plug</p>
 <p class="my-pub-summary"> To improve the efficiency for the existing attention modules, we leverage the sharing mechanism to share the attention module within the backbone and search where to connect the shared attention module via reinforcement learning. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
