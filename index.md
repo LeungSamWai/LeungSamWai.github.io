@@ -22,11 +22,17 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 </div>
 </div>
 
+<hr>
+<h3 class="text-center">My CV</h3>
+[CV](/img/cv.pdf) (update on 10/06/2021)
+<hr>
 
 <h3 class="text-center">News</h3>
 
 - :rocket: Open to job market! 
 - \[10/03/2021\] Project 'Solving PDE with Reinforcement Learning' in progress
+
+<hr>
 
 <h3 class="text-center">Academic Service</h3>
 
@@ -35,10 +41,9 @@ Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses o
 - Organizer: AMS Sectional meeting at Purdue, the SIAM Texas-Louisiana Section
 - Assistant: IMA Workshop at Purdue
 
+<hr>
 <h3 class="text-center">Publications or Manuscripts</h3>
 
-
-<hr>
 
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
