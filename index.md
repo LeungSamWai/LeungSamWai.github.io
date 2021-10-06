@@ -134,7 +134,7 @@ J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Submitted 
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
 <div class="text-center">
-<img src="/img/lstm_cell.png" class="rounded img-fluid my-profile-picture">
+<img src="/img/ks.png" class="rounded img-fluid my-profile-picture">
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
@@ -142,7 +142,7 @@ J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Submitted 
 <p class="my-pub-summary">We propose a framework that reformulates the prediction problem as a supervised learning problem to approximate a map that takes the memories of the resolved and identifiable unresolved variables to the missing components in the resolved dynamics.</p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-J Harlim, SW Jiang, **S Liang**, H Yang, J. Comp. Phys., [[PDF](https://arxiv.org/pdf/1910.05861.pdf)].
+J Harlim, SW Jiang, **S Liang**, H Yang, J. Comput. Phys., (alphabetical order) [[PDF](https://arxiv.org/pdf/1910.05861.pdf)].
 </p>
 </div>
 </div>
@@ -160,7 +160,7 @@ J Harlim, SW Jiang, **S Liang**, H Yang, J. Comp. Phys., [[PDF](https://arxiv.or
 <p class="my-pub-summary">We point out that self-attention mechanism can help to regulate the noise by enhancing instance-specific information and propose a normalization that recalibrates the information of each channel by a simple linear transformation.</p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S Liang**, Z Huang, M Liang, H Yang, AAAI-2020, [[PDF](https://arxiv.org/abs/1908.04008), [Code](https://github.com/gbup-group/IEBN)].
+**S Liang**, Z Huang, M Liang, H Yang, AAAI-2020, (Joint first author) [[PDF](https://arxiv.org/abs/1908.04008), [Code](https://github.com/gbup-group/IEBN)].
 </p>
 </div>
 </div>
@@ -178,7 +178,7 @@ J Harlim, SW Jiang, **S Liang**, H Yang, J. Comp. Phys., [[PDF](https://arxiv.or
 <p class="my-pub-summary">We propose a framework that shares an attention module throughout different network layers to encourage the integration of layer-wise information. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-Z Huang, **S Liang**, M Liang, H Yang, AAAI-2020, [[PDF](https://arxiv.org/abs/1905.10671), [Code](https://github.com/gbup-group/DIANet)].
+Z. Huang, **S. Liang**, M. Liang, H. Yang, AAAI-2020, (Joint first author) [[PDF](https://arxiv.org/abs/1905.10671), [Code](https://github.com/gbup-group/DIANet)].
 </p>
 </div>
 </div>
@@ -197,7 +197,7 @@ Z Huang, **S Liang**, M Liang, H Yang, AAAI-2020, [[PDF](https://arxiv.org/abs/1
 drops nonlinear activation functions by setting them to be identity functions randomly during training time. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, Y. Khoo, H. Yang, Communications on Applied Mathematics and Computation, [[PDF](https://arxiv.org/pdf/1811.05850.pdf), [Code](https://github.com/LeungSamWai/Drop-Activation)].
+**S. Liang**, Y. Khoo, H. Yang, Communications on Applied Mathematics and Computation, (First author) [[PDF](https://arxiv.org/pdf/1811.05850.pdf), [Code](https://github.com/LeungSamWai/Drop-Activation)].
 </p>
 </div>
 </div>
