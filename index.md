@@ -81,6 +81,24 @@ S. Liang, S. Jiang, J. Harlim, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
 <div class="text-center">
+<img src="/img/semi.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2021) Reproducing Activation Function for Deep Learning </p>
+<p class="my-pub-summary">We propose reproducing activation functions which employs several basic functions and their learnable linear combination to construct neuron-wise data-driven activation functions for each neuron.  </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+S. Liang, L. Lyu, C. Wang, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2101.04844.pdf)].
+</p>
+</div>
+</div>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
 <img src="/img/ean.png" class="rounded img-fluid my-profile-picture">
 </div>
 </div>
