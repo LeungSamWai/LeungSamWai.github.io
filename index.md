@@ -7,13 +7,13 @@ layout: home
 <div class="text-center">
 <img src="/img/photo.png" class="rounded-circle img-fluid my-profile-picture" alt="my picture">
 <p class="my-name">Senwei</p>
-<p class="my-position">PhD Candidate</p>
+<p class="my-position">PhD Student</p>
 </div>
 </div>
 
 <div class="col-md-7 col-sm-7" markdown="1">
-Hello, welcome to my page. My name is *Senwei Liang* from China. I joined Purdue University in Spring 2020 and I am pursuing PhD degree here, under the supervision of Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/). Previously, I obtained my MSc degree in National University of 
-Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses on solving the differential equation using deep neural networks, designing efficient and effective neural network architecture, and application of neural networks.
+Hello, welcome to my page. I am *Senwei Liang* from China. I joined Purdue University in Spring 2020 and I am pursuing PhD degree here, under the supervision of Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/). Previously, I obtained my MSc degree in National University of 
+Singapore and BSc degree in Sun Yat-sen University. My research mainly focuses on solving the differential equations with deep learning, designing efficient and effective neural network architectures, and application of neural networks on scientific computing.
 
 [Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN); 
 [Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634);
@@ -161,7 +161,7 @@ Z Huang, **S Liang**, M Liang, H Yang, AAAI-2020, [[PDF](https://arxiv.org/abs/1
 drops nonlinear activation functions by setting them to be identity functions randomly during training time. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S Liang**, Y Khoo, H Yang, Communications on Applied Mathematics and Computation, [[PDF](https://arxiv.org/pdf/1811.05850.pdf), [Code](https://github.com/LeungSamWai/Drop-Activation)].
+**S. Liang**, Y. Khoo, H. Yang, Communications on Applied Mathematics and Computation, [[PDF](https://arxiv.org/pdf/1811.05850.pdf), [Code](https://github.com/LeungSamWai/Drop-Activation)].
 </p>
 </div>
 </div>
