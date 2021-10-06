@@ -216,7 +216,7 @@ Z. Huang, **S. Liang**, M. Liang, H. Yang, AAAI-2020, (Joint first author) [[PDF
 drops nonlinear activation functions by setting them to be identity functions randomly during training time. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, Y. Khoo, H. Yang, Communications on Applied Mathematics and Computation, (First author) [[PDF](https://arxiv.org/pdf/1811.05850.pdf), [Code](https://github.com/LeungSamWai/Drop-Activation)].
+**S. Liang**, Y. Khoo, H. Yang, Communications on Applied Mathematics and Computation, (First author) [[PDF](https://link.springer.com/article/10.1007/s42967-020-00085-3), [Code](https://github.com/LeungSamWai/Drop-Activation)].
 </p>
 </div>
 </div>
