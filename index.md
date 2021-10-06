@@ -28,11 +28,18 @@ Singapore and BSc degree in Sun Yat-sen University.
 <h3 class="text-center">News</h3>
 
 - &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640;
-- \[10/03/2021\] Project 'Solving PDE with Reinforcement Learning' in progress
+- \[10/06/2021\] Project 'Solving PDE with Reinforcement Learning' in progress
 
 <hr>
 
-<h3 class="text-center">Internship</h3>
+<h3 class="text-center">Awards</h3>
+
+- Ross-Lynn fellowship, Purdue University, 2021-2022.
+- Top Graduate Tutors for AY2019/20 (SGD 100), Department of Mathematics, NUS.
+- 2020 Thirty-fourth AAAI Conference Scholarship (USD 100).
+<hr>
+
+<h3 class="text-center">Work Experience</h3>
 
 - Wallace Givens Associate at Argonne National Laboratory mentored by [Dr. Hong Zhang](https://caidao22.github.io/), from May 2021 to Jul 2021.
 - Research Assistant at Computational Medical Imaging Laboratory mentored by [Prof. Yao Lu](https://ieeexplore.ieee.org/author/37086386972), from Jun 2016 to Jan 2017.
