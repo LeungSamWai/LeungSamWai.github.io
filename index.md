@@ -66,7 +66,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2021) Stiffness-aware neural network for learning Hamiltonian systems</p>
-<p class="my-pub-summary">We propose stiffness-aware neural network (SANN), a new method for learning stiff Hamiltonian dynamical systems from data.
+<p class="my-pub-summary">We propose stiffness-aware neural network, a new method for learning stiff Hamiltonian dynamical systems from data.
 SANN identifies and splits the training data into stiff and nonstiff portions based on a stiffness-aware index, a simple, yet effective metric we introduce to quantify the stiffness of the dynamical system. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
