@@ -55,6 +55,26 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">Publications or Manuscripts</h3>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/sann.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2021) Stiffness-aware neural network for learning Hamiltonian systems</p>
+<p class="my-pub-summary">We propose stiffness-aware neural network (SANN), a new method for learning stiff Hamiltonian dynamical systems from data.
+SANN identifies and splits the training data into stiff and nonstiff portions based on a stiffness-aware index, a simple, yet effective metric we introduce to quantify the stiffness of the dynamical system. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+**S. Liang**, Z. Huang, H. Zhang, Submitted, (First author) [[PDF](https://arxiv.org/)].
+</p>
+</div>
+</div>
+
 <hr>
 
 <div class="row my-pub-main">
