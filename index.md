@@ -262,6 +262,7 @@ drops nonlinear activation functions by setting them to be identity functions ra
 This page has been accessed at least
 <a href="http://stuff.mit.edu/doc/counter-howto.html"><img 
 src="http://stuff.mit.edu/cgi/counter/leungsamwai" alt="several"></a>
-times since the counter was last reset,
+times since 10/10/2021, and on average <a href="http://stuff.mit.edu/doc/counter-howto.html"><img 
+src="http://stuff.mit.edu/cgi/perday/leungsamwai" alt="several"></a> per day. 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=Hc1N22Jm0sgvB0mawrM4BFuzVJlc_s80BHUBH_EB7wI"></script>
