@@ -28,7 +28,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 <h3 class="text-center">News</h3>
 
 - &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640;
-- \[Thanksgiving day, 2021\] "Quantifying spatial homogeneity ..." is accepted by Nature Machine Intelligence; 
+- \[Thanksgiving day, 2021\] "Quantifying spatial homogeneity ..." is accepted by Nature Machine Intelligence; Thanks for efforts of collaborator;   
 - \[10/06/2021\] Project 'Solving PDE with Reinforcement Learning' in progress
 
 <hr>
