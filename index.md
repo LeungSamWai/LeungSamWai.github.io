@@ -8,7 +8,7 @@ layout: home
 <img src="/img/photo.png" class="rounded-circle img-fluid my-profile-picture" alt="my picture">
 <p class="my-name">Senwei</p>
 <p class="my-position">PhD Student</p>
-<p class="my-cv" markdown="1">[CV](/img/cv.pdf) (update on 10/10/2021)</p>
+<p class="my-cv" markdown="1">[CV](/img/cv.pdf) (update on 02/01/2022)</p>
 </div>
 </div>
 
@@ -29,7 +29,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 - &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640;
 - \[01/20/2021\] One paper is accepted by ICLR 2022; Thanks for efforts of collaborators.
-- \[Thanksgiving day, 2021\] One paper is accepted by Nature Machine Intelligence; Thanks for efforts of collaborators.   
+- \[11/25/2021\] One paper is accepted by Nature Machine Intelligence; Thanks for efforts of collaborators.   
 - \[10/06/2021\] Project 'Solving PDE with Reinforcement Learning' in progress.
 
 <hr>
