@@ -28,8 +28,9 @@ Singapore and BSc degree in Sun Yat-sen University.
 <h3 class="text-center">News</h3>
 
 - &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640;
-- \[Thanksgiving day, 2021\] "Quantifying spatial homogeneity ..." is accepted by Nature Machine Intelligence; Thanks for efforts of collaborator;   
-- \[10/06/2021\] Project 'Solving PDE with Reinforcement Learning' in progress
+- \[01/20/2021\] One paper is accepted by ICLR 2022; Thanks for efforts of collaborators.
+- \[Thanksgiving day, 2021\] One paper is accepted by Nature Machine Intelligence; Thanks for efforts of collaborators.   
+- \[10/06/2021\] Project 'Solving PDE with Reinforcement Learning' in progress.
 
 <hr>
 
@@ -71,7 +72,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 SANN identifies and splits the training data into stiff and nonstiff portions based on a stiffness-aware index, a metric to quantify the stiffness of the dynamical system. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, Z. Huang, H. Zhang, Submitted, (First author) [[PDF](https://arxiv.org/)].
+**S. Liang**, Z. Huang, H. Zhang, Submitted, ICLR 2022 (Poster) (First author) [[PDF](https://arxiv.org/)].
 </p>
 </div>
 </div>
