@@ -29,7 +29,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 - \[03/23/2022\] Our paper “Quantifying the spatial homogeneity of urban road networks via graph neural networks” published in Nature Machine Intelligence, and selected as the cover paper for the March issue.
 - \[01/20/2022\] One paper is accepted by ICLR 2022.
-- \[10/06/2021\] Project 'Solving PDE with Reinforcement Learning' in progress.
+- \[10/06/2021\] Project 'Solving PDE with Reinforcement Learning' in progress. 
 
 <hr>
 
@@ -56,6 +56,24 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">Publications or Manuscripts</h3>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/cover.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2022) Quantifying spatial homogeneity of urban road networks via graph neural networks </p>
+<p class="my-pub-summary">We borrow the power of Graph Neural Networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Nature Machine Intelligence, 4, 246–257 (2022) [[Code](https://github.com/jiang719/road-network-predictability), [PDF](https://arxiv.org/abs/2101.00307)].
+</p>
+</div>
+</div>
 
 <hr>
 
@@ -163,24 +181,6 @@ Z. Huang, **S. Liang**, M. Liang, W. He, H. Yang, Submitted (Joint first author)
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 W. He, Z. Huang, M. Liang, **S. Liang**, H. Yang, ICANN 2021 [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-86380-7_1)].
-</p>
-</div>
-</div>
-
-<hr>
-
-<div class="row my-pub-main">
-<div class="col-12 col-sm-4">
-<div class="text-center">
-<img src="/img/road.png" class="rounded img-fluid my-profile-picture">
-</div>
-</div>
-<div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading">(2020) Quantifying spatial homogeneity of urban road networks via graph neural networks </p>
-<p class="my-pub-summary">We borrow the power of Graph Neural Networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties. </p>
-<div style="margin-bottom: 10px;"></div>
-<p markdown="1">
-J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Nature Machine Intelligence, to appear [[Code](https://github.com/jiang719/road-network-predictability), [PDF](https://arxiv.org/abs/2101.00307)].
 </p>
 </div>
 </div>
