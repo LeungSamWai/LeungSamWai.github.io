@@ -101,7 +101,7 @@ Y. Gu, J. Harlim, **S. Liang**, H. Yang, Submitted, (Alphabetical order) [[PDF](
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
 <div class="text-center">
-<img src="/img/semi.png" class="rounded img-fluid my-profile-picture">
+<img src="/img/face.png" class="rounded img-fluid my-profile-picture">
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
