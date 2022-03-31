@@ -27,9 +27,8 @@ Singapore and BSc degree in Sun Yat-sen University.
 <hr>
 <h3 class="text-center">News</h3>
 
-- &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640;
-- \[01/20/2021\] One paper is accepted by ICLR 2022; Thanks for efforts of collaborators.
-- \[11/25/2021\] One paper is accepted by Nature Machine Intelligence; Thanks for efforts of collaborators.   
+- \[03/23/2022\] Our paper “Quantifying the spatial homogeneity of urban road networks via graph neural networks” published in Nature Machine Intelligence, and selected as the cover paper for the March issue.
+- \[01/20/2022\] One paper is accepted by ICLR 2022.
 - \[10/06/2021\] Project 'Solving PDE with Reinforcement Learning' in progress.
 
 <hr>
