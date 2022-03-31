@@ -27,7 +27,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 <hr>
 <h3 class="text-center">News</h3>
 
-- \[03/23/2022\] Our paper “Quantifying the spatial homogeneity of urban road networks via graph neural networks” published in Nature Machine Intelligence, and selected as the cover paper for the March issue.
+- \[03/23/2022\] Our paper “Quantifying the spatial homogeneity...” is published in Nature Machine Intelligence, and selected as the cover paper for the March issue.
 - \[01/20/2022\] One paper is accepted by ICLR 2022.
 - \[10/06/2021\] Project 'Solving PDE with Reinforcement Learning' in progress. 
 
@@ -67,10 +67,10 @@ Singapore and BSc degree in Sun Yat-sen University.
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2022) Quantifying spatial homogeneity of urban road networks via graph neural networks </p>
-<p class="my-pub-summary">We borrow the power of Graph Neural Networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties. </p>
+<p class="my-pub-summary">We borrow the power of graph neural networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties. We demonstrate its connection with the road irregularity and the socioeconomic status indicators. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Nature Machine Intelligence, 4, 246–257 (2022) [[Code](https://github.com/jiang719/road-network-predictability), [PDF](https://arxiv.org/abs/2101.00307)].
+J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Nature Machine Intelligence, 4, 246–257 (2022) [[Code](https://github.com/jiang719/road-network-predictability), [PDF](https://www.nature.com/articles/s42256-022-00462-y)].
 </p>
 </div>
 </div>
