@@ -26,15 +26,14 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">News</h3>
-
+- \[06/23/2022\] I will start my postdoc at LBNL in August! 
 - \[03/23/2022\] Our paper “Quantifying the spatial homogeneity...” is published in Nature Machine Intelligence, and selected as the cover paper for the March issue.
 - \[01/20/2022\] One paper is accepted by ICLR 2022.
-- \[10/06/2021\] Project 'Solving PDE with Reinforcement Learning' in progress. 
 
 <hr>
 
 <h3 class="text-center">Awards</h3>
-
+- CVPR Outstanding Reviewer [Link](https://cvpr2022.thecvf.com/outstanding-reviewers)
 - Ross-Lynn fellowship, Purdue University, 2021-2022.
 - Top Graduate Tutors for AY2019/20 (SGD 100), Department of Mathematics, NUS.
 - 2020 Thirty-fourth AAAI Conference Scholarship (USD 100).
@@ -49,7 +48,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <h3 class="text-center">Academic Service</h3>
 
-- Conference reviewer: AAAI2021, CVPR2021, 2022, ICANN2021
+- Conference reviewer: AAAI, CVPR, ECCV, ICANN
 - Journal reviewer: Journal of Scientific Computing
 - Organizer: AMS Sectional meeting at Purdue, the SIAM Texas-Louisiana Section
 - Assistant: IMA Workshop at Purdue
