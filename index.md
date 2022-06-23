@@ -61,6 +61,24 @@ Singapore and BSc degree in Sun Yat-sen University.
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
 <div class="text-center">
+<img src="/img/fex.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2022) Finite Expression Method for Solving High-Dimensional Partial Differential Equations </p>
+<p class="my-pub-summary"> We introduces a new methodology that seeks an approximate PDE solution in the space of functions with finitely many analytic expressions and, hence, this methodology is named the finite expression method (FEX). </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+**S. Liang**, H. Yang (2022) [[PDF](https://arxiv.org/abs/2206.10121)].
+</p>
+</div>
+</div>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
 <img src="/img/cover.png" class="rounded img-fluid my-profile-picture">
 </div>
 </div>
