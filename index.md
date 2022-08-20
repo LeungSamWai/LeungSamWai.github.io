@@ -13,10 +13,10 @@ layout: home
 </div>
 
 <div class="col-md-7 col-sm-7" markdown="1">
-Hello friends, welcome to my page! I am *Senwei Liang* from China. I joined Purdue University in Spring 2020 and I am pursuing PhD degree here, under the supervision of Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/). Previously, I obtained my MSc degree in National University of 
+Hello friends, welcome to my page! I am *Senwei Liang* from China. I joined Lawrence Berkeley National Laboratory working as postdoc in Aug 2022 under supervision by Prof. Chao Yang and Prof. Lin Lin. Before that, I obtained PhD from Purdue University supervised by Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/), and got my MSc degree in National University of 
 Singapore and BSc degree in Sun Yat-sen University. 
 
-**Research Interest:** solving the differential equations with deep learning; designing efficient and effective network architectures; application of neural networks on scientific computing.
+**Research Interest:** AI for science.
 
 [Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN); 
 [Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634);
@@ -26,14 +26,12 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">News</h3>
-- \[06/23/2022\] I will start my postdoc at LBNL in August! 
-- \[03/23/2022\] Our paper “Quantifying the spatial homogeneity...” is published in Nature Machine Intelligence, and selected as the cover paper for the March issue.
-- \[01/20/2022\] One paper is accepted by ICLR 2022.
+- \[08/08/2022\] I am starting my new career at Lawrence Berkeley Lab!
 
 <hr>
 
 <h3 class="text-center">Awards</h3>
-- CVPR Outstanding Reviewer [Link](https://cvpr2022.thecvf.com/outstanding-reviewers)
+- CVPR Outstanding Reviewer (USD 100) [Link](https://cvpr2022.thecvf.com/outstanding-reviewers)
 - Ross-Lynn fellowship, Purdue University, 2021-2022.
 - Top Graduate Tutors for AY2019/20 (SGD 100), Department of Mathematics, NUS.
 - 2020 Thirty-fourth AAAI Conference Scholarship (USD 100).
@@ -61,6 +59,24 @@ Singapore and BSc degree in Sun Yat-sen University.
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
 <div class="text-center">
+<img src="/img/ensemble.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2022) Accelerating numerical solvers for large-scale simulation of dynamical system via NeurVec </p>
+<p class="my-pub-summary">  We propose a data-driven corrector method that allows using large step sizes while compensating for the integration error for high accuracy. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+Z. Huang, **S. Liang**, H. Zhang, H. Yang, L. Lin, submitted (Joint first)  [[PDF](https://arxiv.org/pdf/2208.03680.pdf)], [[Code](https://github.com/dedekinds/NeurVec)].
+</p>
+</div>
+</div>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
 <img src="/img/fex.png" class="rounded img-fluid my-profile-picture">
 </div>
 </div>
@@ -69,7 +85,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 <p class="my-pub-summary"> We introduces a new methodology that seeks an approximate PDE solution in the space of functions with finitely many analytic expressions and, hence, this methodology is named the finite expression method (FEX). </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, H. Yang (2022) [[PDF](https://arxiv.org/abs/2206.10121)].
+**S. Liang**, H. Yang, submitted (2022) [[PDF](https://arxiv.org/abs/2206.10121)], [[Code](https://github.com/LeungSamWai/Finite-expression-method)].
 </p>
 </div>
 </div>
