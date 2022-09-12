@@ -26,9 +26,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">News</h3>
-
 - \[09/10/2022\] One paper is accepted by SIAM Journal on Numerical Analysis! Thanks for efforts of collaborators. &#x1F34E
-
 - \[08/08/2022\] I am starting my new career at Lawrence Berkeley Lab!
 
 <hr>
