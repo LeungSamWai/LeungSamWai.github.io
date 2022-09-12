@@ -26,6 +26,9 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">News</h3>
+
+- \[09/10/2022\] One paper is accepted by SIAM Journal on Numerical Analysis! Thanks for efforts of collaborators. &#x1F34E
+
 - \[08/08/2022\] I am starting my new career at Lawrence Berkeley Lab!
 
 <hr>
@@ -141,7 +144,7 @@ SANN identifies and splits the training data into stiff and nonstiff portions ba
 differential equations. We establish the convergence of the proposed scheme. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-Y. Gu, J. Harlim, **S. Liang**, H. Yang, Submitted, (Alphabetical order) [[PDF](https://arxiv.org/pdf/2109.03992.pdf)].
+Y. Gu, J. Harlim, **S. Liang**, H. Yang, To appear in SIAM Journal on Numerical Analysis [[PDF](https://arxiv.org/pdf/2109.03992.pdf)].
 </p>
 </div>
 </div>
