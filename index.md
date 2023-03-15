@@ -13,7 +13,7 @@ layout: home
 </div>
 
 <div class="col-md-7 col-sm-7" markdown="1">
-Hello friends, welcome to my page! I am *Senwei Liang* from China. I joined Lawrence Berkeley National Laboratory working as postdoc in Aug 2022 under supervision by Prof. Chao Yang and Prof. Lin Lin. Before that, I obtained PhD from Purdue University supervised by Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/), and got my MSc degree in National University of 
+Hello friends! Welcome to my page! I am *Senwei Liang*. I joined Lawrence Berkeley National Laboratory working as postdoc in Aug 2022 under supervision by Prof. Chao Yang and Prof. Lin Lin. Before that, I obtained PhD from Purdue University supervised by Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/), and got my MSc degree in National University of 
 Singapore and BSc degree in Sun Yat-sen University. 
 
 **Research Interest:** AI for science.
