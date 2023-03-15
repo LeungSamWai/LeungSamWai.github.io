@@ -159,7 +159,7 @@ SANN identifies and splits the training data into stiff and nonstiff portions ba
 <p class="my-pub-summary">We propose a mesh-free computational framework and machine learning theory for solving elliptic PDEs on unknown manifolds, identified with point clouds, based on diffusion maps (DM) and deep learning. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, S. Jiang, J. Harlim, H. Yang, Submitted, [[PDF](https://arxiv.org/pdf/2106.06682.pdf)].
+**S. Liang**, S. Jiang, J. Harlim, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2106.06682.pdf)].
 </p>
 </div>
 </div>
@@ -177,7 +177,7 @@ SANN identifies and splits the training data into stiff and nonstiff portions ba
 <p class="my-pub-summary">We propose reproducing activation functions which employs several basic functions and their learnable linear combination to construct neuron-wise data-driven activation functions for each neuron.  </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, L. Lyu, C. Wang, H. Yang, Submitted, (Joint first author) [[PDF](https://arxiv.org/pdf/2101.04844.pdf)].
+**S. Liang**, L. Lyu, C. Wang, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2101.04844.pdf)].
 </p>
 </div>
 </div>
@@ -195,7 +195,7 @@ SANN identifies and splits the training data into stiff and nonstiff portions ba
 <p class="my-pub-summary"> To improve the efficiency for the existing attention modules, we leverage the sharing mechanism to share the attention module within the backbone and search where to connect the shared attention module via reinforcement learning. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-Z. Huang, **S. Liang**, M. Liang, W. He, H. Yang, Submitted (Joint first author) [[PDF](https://arxiv.org/abs/2011.14058), [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
+Z. Huang, **S. Liang**, M. Liang, W. He, H. Yang, Submitted, (Joint first) [[PDF](https://arxiv.org/abs/2011.14058), [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
 </p>
 </div>
 </div>
