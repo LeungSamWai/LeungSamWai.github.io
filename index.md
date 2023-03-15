@@ -122,7 +122,7 @@ Z. Huang, **S. Liang**, H. Zhang, H. Yang, L. Lin, submitted (Joint first)  [[PD
 <p class="my-pub-summary">We borrow the power of graph neural networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties. We demonstrate its connection with the road irregularity and the socioeconomic status indicators. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Nature Machine Intelligence, 4, 246–257 (2022) [[PDF](https://www.nature.com/articles/s42256-022-00462-y), [Code](https://github.com/jiang719/road-network-predictability)].
+J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Nature Machine Intelligence, 4, 246–257 (2022) [[PDF](https://www.nature.com/articles/s42256-022-00462-y)], [[Code](https://github.com/jiang719/road-network-predictability)].
 </p>
 </div>
 </div>
@@ -141,7 +141,7 @@ J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Nature Mac
 SANN identifies and splits the training data into stiff and nonstiff portions based on a stiffness-aware index, a metric to quantify the stiffness of the dynamical system. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, Z. Huang, H. Zhang, ICLR 2022 (Poster) (First author) [[PDF](https://openreview.net/forum?id=uVXEKeqJbNa)].
+**S. Liang**, Z. Huang, H. Zhang, ICLR 2022 [[PDF](https://openreview.net/forum?id=uVXEKeqJbNa)].
 </p>
 </div>
 </div>
@@ -159,7 +159,7 @@ SANN identifies and splits the training data into stiff and nonstiff portions ba
 <p class="my-pub-summary">We propose a mesh-free computational framework and machine learning theory for solving elliptic PDEs on unknown manifolds, identified with point clouds, based on diffusion maps (DM) and deep learning. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, S. Jiang, J. Harlim, H. Yang, Submitted, (First author) [[PDF](https://arxiv.org/pdf/2106.06682.pdf)].
+**S. Liang**, S. Jiang, J. Harlim, H. Yang, Submitted, [[PDF](https://arxiv.org/pdf/2106.06682.pdf)].
 </p>
 </div>
 </div>
