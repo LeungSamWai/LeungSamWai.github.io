@@ -16,7 +16,7 @@ layout: home
 Hello friends! Welcome to my page! I am *Senwei Liang*. I joined Lawrence Berkeley National Laboratory working as postdoc in Aug 2022 under supervision by Prof. Chao Yang and Prof. Lin Lin. Before that, I obtained PhD from Purdue University supervised by Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/), and got my MSc degree in National University of 
 Singapore and BSc degree in Sun Yat-sen University. 
 
-**Research Interest:** AI for science.
+**Research Interest:** Scientific machine learning and AI with Science.
 
 [Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN); 
 [Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634);
@@ -26,13 +26,12 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">News</h3>
-- \[09/10/2022\] One paper is accepted by SIAM Journal on Numerical Analysis! Thanks for efforts of collaborators. &#x1F34E
-- \[08/08/2022\] I am starting my new career at Lawrence Berkeley Lab!
+- 
 
 <hr>
 
 <h3 class="text-center">Awards</h3>
-- CVPR Outstanding Reviewer (USD 100) [Link](https://cvpr2022.thecvf.com/outstanding-reviewers)
+- CVPR Outstanding Reviewer (USD 100) [Link](https://cvpr2022.thecvf.com/outstanding-reviewers).
 - Ross-Lynn fellowship, Purdue University, 2021-2022.
 - Top Graduate Tutors for AY2019/20 (SGD 100), Department of Mathematics, NUS.
 - 2020 Thirty-fourth AAAI Conference Scholarship (USD 100).
@@ -54,6 +53,25 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">Publications or Manuscripts</h3>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/density.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2023) Stationary Density Estimation of Itô Diffusions Using Deep Learning</p>
+<p class="my-pub-summary">We propose a deep learning scheme to estimate the density from a discrete-time series that approximate the solutions of the stochastic
+differential equations. We establish the convergence of the proposed scheme. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+Y. Gu, J. Harlim, **S. Liang**, H. Yang, SIAM Journal on Numerical Analysis (Corresp. author) [[PDF](https://epubs.siam.org/doi/abs/10.1137/21M1445363)].
+</p>
+</div>
+</div>
 
 <hr>
 
@@ -83,7 +101,7 @@ Z. Huang, **S. Liang**, H. Zhang, H. Yang, L. Lin, submitted (Joint first)  [[PD
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2022) Finite Expression Method for Solving High-Dimensional Partial Differential Equations </p>
-<p class="my-pub-summary"> We introduces a new methodology that seeks an approximate PDE solution in the space of functions with finitely many analytic expressions and, hence, this methodology is named the finite expression method (FEX). </p>
+<p class="my-pub-summary"> We introduce a new methodology that seeks an approximate PDE solution in the space of functions with finitely many analytic expressions and, hence, this methodology is named the finite expression method (FEX). </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 **S. Liang**, H. Yang, submitted (2022) [[PDF](https://arxiv.org/abs/2206.10121)], [[Code](https://github.com/LeungSamWai/Finite-expression-method)].
@@ -104,7 +122,7 @@ Z. Huang, **S. Liang**, H. Zhang, H. Yang, L. Lin, submitted (Joint first)  [[PD
 <p class="my-pub-summary">We borrow the power of graph neural networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties. We demonstrate its connection with the road irregularity and the socioeconomic status indicators. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Nature Machine Intelligence, 4, 246–257 (2022) [[Code](https://github.com/jiang719/road-network-predictability), [PDF](https://www.nature.com/articles/s42256-022-00462-y)].
+J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Nature Machine Intelligence, 4, 246–257 (2022) [[PDF](https://www.nature.com/articles/s42256-022-00462-y), [Code](https://github.com/jiang719/road-network-predictability)].
 </p>
 </div>
 </div>
@@ -123,26 +141,7 @@ J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Nature Mac
 SANN identifies and splits the training data into stiff and nonstiff portions based on a stiffness-aware index, a metric to quantify the stiffness of the dynamical system. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, Z. Huang, H. Zhang, Submitted, ICLR 2022 (Poster) (First author) [[PDF](https://arxiv.org/)].
-</p>
-</div>
-</div>
-
-<hr>
-
-<div class="row my-pub-main">
-<div class="col-12 col-sm-4">
-<div class="text-center">
-<img src="/img/density.png" class="rounded img-fluid my-profile-picture">
-</div>
-</div>
-<div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading">(2021) Stationary Density Estimation of Itô Diffusions Using Deep Learning</p>
-<p class="my-pub-summary">We propose a deep learning scheme to estimate the density from a discrete-time series that approximate the solutions of the stochastic
-differential equations. We establish the convergence of the proposed scheme. </p>
-<div style="margin-bottom: 10px;"></div>
-<p markdown="1">
-Y. Gu, J. Harlim, **S. Liang**, H. Yang, To appear in SIAM Journal on Numerical Analysis [[PDF](https://arxiv.org/pdf/2109.03992.pdf)].
+**S. Liang**, Z. Huang, H. Zhang, ICLR 2022 (Poster) (First author) [[PDF](https://openreview.net/forum?id=uVXEKeqJbNa)].
 </p>
 </div>
 </div>
