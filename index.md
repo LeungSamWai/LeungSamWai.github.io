@@ -249,7 +249,7 @@ J. Harlim, S. Jiang, **S. Liang**, H. Yang, J. Comput. Phys., (Alphabetical orde
 <p class="my-pub-summary">We point out that self-attention mechanism can help to regulate the noise by enhancing instance-specific information and propose a normalization that recalibrates the information of each channel by a simple linear transformation.</p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, Z. Huang, M. Liang, H. Yang, AAAI-2020, (Joint first author) [[PDF](https://arxiv.org/abs/1908.04008), [Code](https://github.com/gbup-group/IEBN)].
+**S. Liang**, Z. Huang, M. Liang, H. Yang, AAAI-2020 [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5917), [Code](https://github.com/gbup-group/IEBN)].
 </p>
 </div>
 </div>
@@ -267,7 +267,7 @@ J. Harlim, S. Jiang, **S. Liang**, H. Yang, J. Comput. Phys., (Alphabetical orde
 <p class="my-pub-summary">We propose a framework that shares an attention module throughout different network layers to encourage the integration of layer-wise information. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-Z. Huang, **S. Liang**, M. Liang, H. Yang, AAAI-2020, (Joint first author) [[PDF](https://arxiv.org/abs/1905.10671), [Code](https://github.com/gbup-group/DIANet)].
+Z. Huang, **S. Liang**, M. Liang, H. Yang, AAAI-2020, (Joint first) [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5842), [Code](https://github.com/gbup-group/DIANet)].
 </p>
 </div>
 </div>
@@ -286,7 +286,7 @@ Z. Huang, **S. Liang**, M. Liang, H. Yang, AAAI-2020, (Joint first author) [[PDF
 drops nonlinear activation functions by setting them to be identity functions randomly during training time. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, Y. Khoo, H. Yang, Communications on Applied Mathematics and Computation, (First author) [[PDF](https://link.springer.com/article/10.1007/s42967-020-00085-3), [Code](https://github.com/LeungSamWai/Drop-Activation)].
+**S. Liang**, Y. Khoo, H. Yang, Communications on Applied Mathematics and Computation [[PDF](https://link.springer.com/article/10.1007/s42967-020-00085-3), [Code](https://github.com/LeungSamWai/Drop-Activation)].
 </p>
 </div>
 </div>
