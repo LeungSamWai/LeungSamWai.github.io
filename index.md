@@ -31,6 +31,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 <hr>
 
 <h3 class="text-center">Awards</h3>
+- ICIAM 2023 travel support
 - CVPR Outstanding Reviewer (USD 100) [Link](https://cvpr2022.thecvf.com/outstanding-reviewers).
 - Ross-Lynn fellowship, Purdue University, 2021-2022.
 - Top Graduate Tutors for AY2019/20 (SGD 100), Department of Mathematics, NUS.
@@ -122,7 +123,7 @@ Z. Huang, **S. Liang**, H. Zhang, H. Yang, L. Lin, submitted (Joint first)  [[PD
 <p class="my-pub-summary">We borrow the power of graph neural networks to model the road network system and use its predictability to quantify the spatial homogeneity. The proposed measurement is shown to be a non-linear integration of multiple geometric properties. We demonstrate its connection with the road irregularity and the socioeconomic status indicators. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Nature Machine Intelligence, 4, 246–257 (2022) [[PDF](https://www.nature.com/articles/s42256-022-00462-y)], [[Code](https://github.com/jiang719/road-network-predictability)].
+J. Xue, N. Jiang, **S. Liang**, Q. Pang, T. Yabe, S. Ukkusuri, J. Ma, Nature Machine Intelligence, 4, 246–257 (2022) [[PDF](https://www.nature.com/articles/s42256-022-00462-y), [Code](https://github.com/jiang719/road-network-predictability)].
 </p>
 </div>
 </div>
