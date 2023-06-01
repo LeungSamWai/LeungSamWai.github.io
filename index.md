@@ -65,7 +65,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2023) Probing reaction channels via reinforcement learning </p>
-<p class="my-pub-summary">We propose a reinforcement learning based method to identify important configurations that connect reactant and product states along chemical reaction paths. </p>
+<p class="my-pub-summary">We propose a reinforcement learning based method to identify important configurations that connect reactant and product states along chemical reaction paths. we can generate an ensemble of configurations that concentrate on the transition path ensemble. This configuration ensemble can be effectively employed in a neural network-based partial differential equation solver to obtain an approximation solution of a restricted Backward Kolmogorov equation, even when the dimension of the problem is very high. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 **S Liang**, AN Singh, Y Zhu, DT Limmer, C Yang [[PDF](https://arxiv.org/pdf/2305.17531.pdf)].
