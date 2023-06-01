@@ -47,13 +47,31 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <h3 class="text-center">Academic Service</h3>
 
-- Conference reviewer: AAAI, CVPR, ECCV, ICANN
+- Conference reviewer: AAAI, CVPR, ECCV, ICCV, ICANN
 - Journal reviewer: Journal of Scientific Computing
 - Organizer: AMS Sectional meeting at Purdue, the SIAM Texas-Louisiana Section
 - Assistant: IMA Workshop at Purdue
 
 <hr>
 <h3 class="text-center">Publications or Manuscripts</h3>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/AD.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2023) Probing reaction channels via reinforcement learning </p>
+<p class="my-pub-summary">We propose a reinforcement learning based method to identify important configurations that connect reactant and product states along chemical reaction paths. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+**S Liang**, AN Singh, Y Zhu, DT Limmer, C Yang [[PDF](https://arxiv.org/pdf/2305.17531.pdf)].
+</p>
+</div>
+</div>
 
 <hr>
 
