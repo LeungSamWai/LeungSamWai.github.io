@@ -196,7 +196,7 @@ SANN identifies and splits the training data into stiff and nonstiff portions ba
 <p class="my-pub-summary">We propose reproducing activation functions which employs several basic functions and their learnable linear combination to construct neuron-wise data-driven activation functions for each neuron.  </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, L. Lyu, C. Wang, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2101.04844.pdf)].
+**S. Liang**, L. Lyu, C. Wang, H. Yang, To appear in Communications in Mathematical Sciences [[PDF](https://arxiv.org/pdf/2101.04844.pdf)].
 </p>
 </div>
 </div>
