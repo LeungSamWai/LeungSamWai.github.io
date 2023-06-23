@@ -26,7 +26,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">News</h3>
-- 
+- [06/19] ``Reproducing activation function'' was accepted by Comm Math Sci. Cheers!
 
 <hr>
 
