@@ -47,13 +47,31 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <h3 class="text-center">Academic Service</h3>
 
-- Conference reviewer: AAAI, CVPR, ECCV, ICCV, ICANN
+- Conference reviewer: AAAI, CVPR, ECCV, ICCV, ICANN, NIPS
 - Journal reviewer: Journal of Scientific Computing
 - Organizer: AMS Sectional meeting at Purdue, the SIAM Texas-Louisiana Section
 - Assistant: IMA Workshop at Purdue
 
 <hr>
 <h3 class="text-center">Publications or Manuscripts</h3>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/vqe.jpg" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2023) Optimizing Shot Assignment in Variational Quantum Eigensolver Measurement </p>
+<p class="my-pub-summary">This work introduces two shot assignment strategies based on estimating the standard deviation of measurements to improve the convergence of VQE and reduce the required number of shots. These strategies specifically target two distinct scenarios: overallocated and underallocated shots. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+L Zhu, **S Liang**, C Yang, X Li, (Joint first) [[PDF](https://arxiv.org/abs/2307.06504)].
+</p>
+</div>
+</div>
 
 <hr>
 
