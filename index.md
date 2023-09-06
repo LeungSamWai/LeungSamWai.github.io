@@ -120,7 +120,7 @@ Y. Gu, J. Harlim, **S. Liang**, H. Yang, SIAM Journal on Numerical Analysis (Cor
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading">(2022) Accelerating numerical solvers for large-scale simulation of dynamical system via NeurVec </p>
+<p class="my-pub-heading">(2022) On Fast Simulation of Dynamical System with Neural Vector Enhanced Numerical Solver </p>
 <p class="my-pub-summary">  We propose a data-driven corrector method that allows using large step sizes while compensating for the integration error for high accuracy. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
