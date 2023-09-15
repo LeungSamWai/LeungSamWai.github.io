@@ -124,7 +124,7 @@ Y. Gu, J. Harlim, **S. Liang**, H. Yang, SIAM Journal on Numerical Analysis (Cor
 <p class="my-pub-summary">  We propose a data-driven corrector method that allows using large step sizes while compensating for the integration error for high accuracy. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-Z. Huang, **S. Liang**, H. Zhang, H. Yang, L. Lin, To appear in Scientific Reports (Joint first)  [[PDF](https://arxiv.org/pdf/2208.03680.pdf), [Code](https://github.com/dedekinds/NeurVec)].
+Z. Huang, **S. Liang**, H. Zhang, H. Yang, L. Lin, To appear in Scientific Reports (Joint first)  [[PDF](https://www.nature.com/articles/s41598-023-42194-y), [Code](https://github.com/dedekinds/NeurVec)].
 </p>
 </div>
 </div>
