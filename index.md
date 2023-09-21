@@ -26,6 +26,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">News</h3>
+- [09/21] ``RL for reaction channel'' was accepted by Mach. Learn.: Sci. and Tech. . Cheers! 
 - [09/06] ``NeurVec'' was accepted by Sci. Reports. Cheers! 
 - [06/19] ``Reproducing activation function'' was accepted by Comm Math Sci. Cheers!
 
@@ -69,7 +70,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 <p class="my-pub-summary">This work introduces two shot assignment strategies based on estimating the standard deviation of measurements to improve the convergence of VQE and reduce the required number of shots. These strategies specifically target two distinct scenarios: overallocated and underallocated shots. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-L Zhu, **S Liang**, C Yang, X Li, (Joint first) [[PDF](https://arxiv.org/abs/2307.06504)].
+L Zhu, **S Liang**, C Yang, X Li, (Joint first) [[PDF](https://arxiv.org/abs/2307.06504), [Code](https://github.com/LeungSamWai/OptimizingMeasurement)].
 </p>
 </div>
 </div>
@@ -87,7 +88,7 @@ L Zhu, **S Liang**, C Yang, X Li, (Joint first) [[PDF](https://arxiv.org/abs/230
 <p class="my-pub-summary">We propose a RL-based method to generate important configurations that connect reactant and product states along chemical reaction paths. These configurations can be effectively employed in a NN-PDE solver to obtain a solution of Backward Kolmogorov equation, even when the dimension of the problem is very high. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S Liang**, AN Singh, Y Zhu, DT Limmer, C Yang [[PDF](https://arxiv.org/pdf/2305.17531.pdf)].
+**S Liang**, AN Singh, Y Zhu, DT Limmer, C Yang, Accepted by Mach. Learn.: Sci. and Tech. [[PDF](https://arxiv.org/pdf/2305.17531.pdf), [Code](https://github.com/LeungSamWai/ReinforcementLearning4ReactionChannel)].
 </p>
 </div>
 </div>
