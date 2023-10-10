@@ -88,7 +88,7 @@ L Zhu, **S Liang**, C Yang, X Li, (Joint first) [[PDF](https://arxiv.org/abs/230
 <p class="my-pub-summary">We propose a RL-based method to generate important configurations that connect reactant and product states along chemical reaction paths. These configurations can be effectively employed in a NN-PDE solver to obtain a solution of Backward Kolmogorov equation, even when the dimension of the problem is very high. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S Liang**, AN Singh, Y Zhu, DT Limmer, C Yang, Accepted by Mach. Learn.: Sci. and Tech. [[PDF](https://arxiv.org/pdf/2305.17531.pdf), [Code](https://github.com/LeungSamWai/ReinforcementLearning4ReactionChannel)].
+**S Liang**, AN Singh, Y Zhu, DT Limmer, C Yang, Mach. Learn.: Sci. and Tech. [[PDF](https://iopscience.iop.org/article/10.1088/2632-2153/acfc33/meta), [Code](https://github.com/LeungSamWai/ReinforcementLearning4ReactionChannel)].
 </p>
 </div>
 </div>
