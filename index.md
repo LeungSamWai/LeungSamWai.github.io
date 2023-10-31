@@ -50,7 +50,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 <h3 class="text-center">Academic Service</h3>
 
 - Conference reviewer: AAAI, CVPR, ECCV, ICCV, ICANN, NIPS
-- Journal reviewer: Journal of Scientific Computing
+- Journal reviewer: Journal of Scientific Computing, Journal of Vibration and Control
 - Organizer: AMS Sectional meeting at Purdue, the SIAM Texas-Louisiana Section
 - Assistant: IMA Workshop at Purdue
 
