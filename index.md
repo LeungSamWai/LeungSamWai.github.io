@@ -20,7 +20,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 [Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN); 
 [Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634);
-[Github](https://leungsamwai.github.io/). 
+[Github](https://github.com/LeungSamWai). 
 </div>
 </div>
 
