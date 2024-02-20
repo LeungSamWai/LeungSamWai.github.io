@@ -26,9 +26,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">News</h3>
-- [09/21] ``RL for reaction channel'' was accepted by Mach. Learn.: Sci. and Tech. . Cheers! 
-- [09/06] ``NeurVec'' was accepted by Sci. Reports. Cheers! 
-- [06/19] ``Reproducing activation function'' was accepted by Comm Math Sci. Cheers!
+- [Feb 20, 2024] ``PDE on manifold'' was accepted by Applied and Computational Harmonic Analysis . Cheers! 
 
 <hr>
 
@@ -56,6 +54,24 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">Publications or Manuscripts</h3>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/face.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2024) Solving PDEs on Unknown Manifolds with Machine Learning </p>
+<p class="my-pub-summary">We propose a mesh-free computational framework and machine learning theory for solving elliptic PDEs on unknown manifolds, identified with point clouds, based on diffusion maps (DM) and deep learning. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+**S. Liang**, S. Jiang, J. Harlim, H. Yang, Accepted by Applied and Computational Harmonic Analysis [[PDF](https://arxiv.org/pdf/2106.06682.pdf)].
+</p>
+</div>
+</div>
 
 <hr>
 
@@ -181,24 +197,6 @@ SANN identifies and splits the training data into stiff and nonstiff portions ba
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 **S. Liang**, Z. Huang, H. Zhang, ICLR 2022 [[PDF](https://openreview.net/forum?id=uVXEKeqJbNa)].
-</p>
-</div>
-</div>
-
-<hr>
-
-<div class="row my-pub-main">
-<div class="col-12 col-sm-4">
-<div class="text-center">
-<img src="/img/face.png" class="rounded img-fluid my-profile-picture">
-</div>
-</div>
-<div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading">(2021) Solving PDEs on Unknown Manifolds with Machine Learning </p>
-<p class="my-pub-summary">We propose a mesh-free computational framework and machine learning theory for solving elliptic PDEs on unknown manifolds, identified with point clouds, based on diffusion maps (DM) and deep learning. </p>
-<div style="margin-bottom: 10px;"></div>
-<p markdown="1">
-**S. Liang**, S. Jiang, J. Harlim, H. Yang, Submitted [[PDF](https://arxiv.org/pdf/2106.06682.pdf)].
 </p>
 </div>
 </div>
