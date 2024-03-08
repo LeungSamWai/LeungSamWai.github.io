@@ -26,6 +26,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">News</h3>
+- [Mar 08, 2024] ``Shot assignment on VQE'' was accpeted by JCTC. Cheers!
 - [Feb 20, 2024] ``PDE on manifold'' was accepted by Applied and Computational Harmonic Analysis . Cheers! 
 
 <hr>
@@ -68,7 +69,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 <p class="my-pub-summary">We propose a mesh-free computational framework and machine learning theory for solving elliptic PDEs on unknown manifolds, identified with point clouds, based on diffusion maps (DM) and deep learning. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, S. Jiang, J. Harlim, H. Yang, Accepted by Applied and Computational Harmonic Analysis [[PDF](https://arxiv.org/pdf/2106.06682.pdf)].
+**S. Liang**, S. Jiang, J. Harlim, H. Yang, Accepted by Applied and Computational Harmonic Analysis [[PDF](https://www.sciencedirect.com/science/article/pii/S1063520324000290), [Code](https://github.com/LeungSamWai/NN4ManifoldPDE)].
 </p>
 </div>
 </div>
@@ -86,7 +87,24 @@ Singapore and BSc degree in Sun Yat-sen University.
 <p class="my-pub-summary">This work introduces two shot assignment strategies based on estimating the standard deviation of measurements to improve the convergence of VQE and reduce the required number of shots. These strategies specifically target two distinct scenarios: overallocated and underallocated shots. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-L Zhu, **S Liang**, C Yang, X Li, (Joint first) [[PDF](https://arxiv.org/abs/2307.06504), [Code](https://github.com/LeungSamWai/OptimizingMeasurement)].
+L Zhu, **S Liang**, C Yang, X Li, (Joint first) Accepted by JCTC [[PDF](https://arxiv.org/abs/2307.06504), [Code](https://github.com/LeungSamWai/OptimizingMeasurement)].
+</p>
+</div>
+</div>
+
+<hr>
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/bach.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2024) Reproducing Activation Function for Deep Learning </p>
+<p class="my-pub-summary">We propose reproducing activation functions which employs several basic functions and their learnable linear combination to construct neuron-wise data-driven activation functions for each neuron.  </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+**S. Liang**, L. Lyu, C. Wang, H. Yang, To appear in Communications in Mathematical Sciences [[PDF](https://dx.doi.org/10.4310/CMS.2024.v22.n2.a1), [https://github.com/LeungSamWai/Reproducing-Activation-Function]].
 </p>
 </div>
 </div>
@@ -164,6 +182,7 @@ Z. Huang, **S. Liang**, H. Zhang, H. Yang, L. Lin, To appear in Scientific Repor
 </div>
 </div>
 
+
 <hr>
 
 <div class="row my-pub-main">
@@ -197,24 +216,6 @@ SANN identifies and splits the training data into stiff and nonstiff portions ba
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 **S. Liang**, Z. Huang, H. Zhang, ICLR 2022 [[PDF](https://openreview.net/forum?id=uVXEKeqJbNa)].
-</p>
-</div>
-</div>
-
-<hr>
-
-<div class="row my-pub-main">
-<div class="col-12 col-sm-4">
-<div class="text-center">
-<img src="/img/bach.png" class="rounded img-fluid my-profile-picture">
-</div>
-</div>
-<div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading">(2021) Reproducing Activation Function for Deep Learning </p>
-<p class="my-pub-summary">We propose reproducing activation functions which employs several basic functions and their learnable linear combination to construct neuron-wise data-driven activation functions for each neuron.  </p>
-<div style="margin-bottom: 10px;"></div>
-<p markdown="1">
-**S. Liang**, L. Lyu, C. Wang, H. Yang, To appear in Communications in Mathematical Sciences [[PDF](https://arxiv.org/pdf/2101.04844.pdf)].
 </p>
 </div>
 </div>
