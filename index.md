@@ -69,7 +69,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 <p class="my-pub-summary">We propose a mesh-free computational framework and machine learning theory for solving elliptic PDEs on unknown manifolds, identified with point clouds, based on diffusion maps (DM) and deep learning. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, S. Jiang, J. Harlim, H. Yang, Accepted by Applied and Computational Harmonic Analysis [[PDF](https://www.sciencedirect.com/science/article/pii/S1063520324000290), [Code](https://github.com/LeungSamWai/NN4ManifoldPDE)].
+**S. Liang**, S. Jiang, J. Harlim, H. Yang, Applied and Computational Harmonic Analysis [[PDF](https://www.sciencedirect.com/science/article/pii/S1063520324000290), [Code](https://github.com/LeungSamWai/NN4ManifoldPDE)].
 </p>
 </div>
 </div>
