@@ -104,7 +104,7 @@ L Zhu, **S Liang**, C Yang, X Li, (Joint first) Accepted by JCTC [[PDF](https://
 <p class="my-pub-summary">We propose reproducing activation functions which employs several basic functions and their learnable linear combination to construct neuron-wise data-driven activation functions for each neuron.  </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, L. Lyu, C. Wang, H. Yang, To appear in Communications in Mathematical Sciences [[PDF](https://dx.doi.org/10.4310/CMS.2024.v22.n2.a1), [https://github.com/LeungSamWai/Reproducing-Activation-Function]].
+**S. Liang**, L. Lyu, C. Wang, H. Yang, To appear in Communications in Mathematical Sciences [[PDF](https://dx.doi.org/10.4310/CMS.2024.v22.n2.a1), [Code](https://github.com/LeungSamWai/Reproducing-Activation-Function)].
 </p>
 </div>
 </div>
