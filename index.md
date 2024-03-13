@@ -26,6 +26,7 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">News</h3>
+- [Mar 12, 2024] ``LTH4SA'' was accepted by ICME. Cheers!
 - [Mar 08, 2024] ``Shot assignment on VQE'' was accpeted by JCTC. Cheers!
 - [Feb 20, 2024] ``PDE on manifold'' was accepted by Applied and Computational Harmonic Analysis . Cheers! 
 
@@ -229,11 +230,11 @@ SANN identifies and splits the training data into stiff and nonstiff portions ba
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading">(2021) Efficient Attention Network: Accelerate Attention by Searching Where to Plug</p>
+<p class="my-pub-heading">(2021) Lottery Ticket Hypothesis for Attention Mechanism in Residual Convolutional Neural Network</p>
 <p class="my-pub-summary"> To improve the efficiency for the existing attention modules, we leverage the sharing mechanism to share the attention module within the backbone and search where to connect the shared attention module via reinforcement learning. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-Z. Huang, **S. Liang**, M. Liang, W. He, H. Yang, Submitted, (Joint first) [[PDF](https://arxiv.org/abs/2011.14058), [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
+Z. Huang, **S. Liang**, M. Liang, W. He, H. Yang, L Lin, (Joint first) accepted by ICME [[PDF](https://arxiv.org/abs/2011.14058), [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
 </p>
 </div>
 </div>
