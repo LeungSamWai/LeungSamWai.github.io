@@ -73,10 +73,6 @@ S. Liang, L. Zhu, C. Yang, X. Li (Joint first) Submitted [[PDF](https://arxiv.or
 </div>
 </div>
 
-
-<hr>
-<h3 class="text-center">Publications or Manuscripts</h3>
-
 <hr>
 
 <div class="row my-pub-main">
