@@ -26,18 +26,16 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">News</h3>
-- [Mar 12, 2024] ``LTH4SA'' was accepted by ICME. Cheers!
-- [Mar 08, 2024] ``Shot assignment on VQE'' was accpeted by JCTC. Cheers!
-- [Feb 20, 2024] ``PDE on manifold'' was accepted by Applied and Computational Harmonic Analysis . Cheers! 
+- No news!
 
 <hr>
 
 <h3 class="text-center">Awards</h3>
 - ICIAM 2023 travel support
-- CVPR Outstanding Reviewer (USD 100) [Link](https://cvpr2022.thecvf.com/outstanding-reviewers).
+- CVPR Outstanding Reviewer [Link](https://cvpr2022.thecvf.com/outstanding-reviewers).
 - Ross-Lynn fellowship, Purdue University, 2021-2022.
 - Top Graduate Tutors for AY2019/20 (SGD 100), Department of Mathematics, NUS.
-- 2020 Thirty-fourth AAAI Conference Scholarship (USD 100).
+- 2020 Thirty-fourth AAAI Conference Scholarship.
 <hr>
 
 <h3 class="text-center">Work Experience</h3>
@@ -56,6 +54,47 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">Publications or Manuscripts</h3>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/shotassig.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2024) Artificial-Intelligence-Driven Shot Reduction in Quantum Measurement</p>
+<p class="my-pub-summary"> The paper proposes a reinforcement learning approach to optimize shot allocation in Variational Quantum Eigensolver for approximating molecular ground state energies. The RL agent learns shot assignment policies across VQE iterations to minimize total shots while achieving convergence, reducing reliance on hand-crafted heuristics. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+S. Liang, L. Zhu, C. Yang, X. Li (Joint first) Submitted [[PDF](https://arxiv.org/pdf/2405.02493), [Code](https://github.com/Linghua-Zhu/RL-Quantum-Measurement-Optimization)].
+</p>
+</div>
+</div>
+
+
+<hr>
+<h3 class="text-center">Publications or Manuscripts</h3>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/ean.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2024) Lottery Ticket Hypothesis for Attention Mechanism in Residual Convolutional Neural Network</p>
+<p class="my-pub-summary"> To improve the efficiency for the existing attention modules, we leverage the sharing mechanism to share the attention module within the backbone and search where to connect the shared attention module via reinforcement learning. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+Z. Huang, **S. Liang**, M. Liang, W. He, H. Yang, L Lin, (Joint first) IEEE International Conference on Multimedia and Expo [[PDF](https://arxiv.org/abs/2011.14058), [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
+</p>
+</div>
+</div>
+
 
 <hr>
 
@@ -84,11 +123,11 @@ Singapore and BSc degree in Sun Yat-sen University.
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading">(2023) Optimizing Shot Assignment in Variational Quantum Eigensolver Measurement </p>
+<p class="my-pub-heading">(2024) Optimizing Shot Assignment in Variational Quantum Eigensolver Measurement </p>
 <p class="my-pub-summary">This work introduces two shot assignment strategies based on estimating the standard deviation of measurements to improve the convergence of VQE and reduce the required number of shots. These strategies specifically target two distinct scenarios: overallocated and underallocated shots. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-L Zhu, **S Liang**, C Yang, X Li, (Joint first) Accepted by JCTC [[PDF](https://arxiv.org/abs/2307.06504), [Code](https://github.com/LeungSamWai/OptimizingMeasurement)].
+L Zhu, **S Liang**, C Yang, X Li, (Joint first) Journal of Chemical Theory and Computation [[PDF](https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c01113), [Code](https://github.com/LeungSamWai/OptimizingMeasurement)].
 </p>
 </div>
 </div>
@@ -105,7 +144,7 @@ L Zhu, **S Liang**, C Yang, X Li, (Joint first) Accepted by JCTC [[PDF](https://
 <p class="my-pub-summary">We propose reproducing activation functions which employs several basic functions and their learnable linear combination to construct neuron-wise data-driven activation functions for each neuron.  </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S. Liang**, L. Lyu, C. Wang, H. Yang, To appear in Communications in Mathematical Sciences [[PDF](https://dx.doi.org/10.4310/CMS.2024.v22.n2.a1), [Code](https://github.com/LeungSamWai/Reproducing-Activation-Function)].
+**S. Liang**, L. Lyu, C. Wang, H. Yang, Communications in Mathematical Sciences [[PDF](https://dx.doi.org/10.4310/CMS.2024.v22.n2.a1), [Code](https://github.com/LeungSamWai/Reproducing-Activation-Function)].
 </p>
 </div>
 </div>
@@ -217,24 +256,6 @@ SANN identifies and splits the training data into stiff and nonstiff portions ba
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 **S. Liang**, Z. Huang, H. Zhang, ICLR 2022 [[PDF](https://openreview.net/forum?id=uVXEKeqJbNa)].
-</p>
-</div>
-</div>
-
-<hr>
-
-<div class="row my-pub-main">
-<div class="col-12 col-sm-4">
-<div class="text-center">
-<img src="/img/ean.png" class="rounded img-fluid my-profile-picture">
-</div>
-</div>
-<div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading">(2021) Lottery Ticket Hypothesis for Attention Mechanism in Residual Convolutional Neural Network</p>
-<p class="my-pub-summary"> To improve the efficiency for the existing attention modules, we leverage the sharing mechanism to share the attention module within the backbone and search where to connect the shared attention module via reinforcement learning. </p>
-<div style="margin-bottom: 10px;"></div>
-<p markdown="1">
-Z. Huang, **S. Liang**, M. Liang, W. He, H. Yang, L Lin, (Joint first) accepted by ICME [[PDF](https://arxiv.org/abs/2011.14058), [Code](https://github.com/gbup-group/EAN-efficient-attention-network)].
 </p>
 </div>
 </div>
