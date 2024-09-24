@@ -13,10 +13,9 @@ layout: home
 </div>
 
 <div class="col-md-7 col-sm-7" markdown="1">
-Hello friends! Welcome to my page! I am *Senwei Liang*. I joined Lawrence Berkeley National Laboratory working as postdoc in Aug 2022 under supervision by Prof. Chao Yang and Prof. Lin Lin. Before that, I obtained PhD from Purdue University supervised by Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/), and got my MSc degree in National University of 
-Singapore and BSc degree in Sun Yat-sen University. 
+Hello friends! Welcome to my page! I am *Senwei Liang*. I joined Lawrence Berkeley National Laboratory working as postdoc in Aug 2022 under supervision by Prof. Chao Yang and Prof. Lin Lin. Before that, I obtained PhD from Purdue University supervised by Prof. [*Haizhao Yang*](https://haizhaoyang.github.io/), and got my MSc degree in National University of Singapore and BSc degree in Sun Yat-sen University. 
 
-**Research Interest:** Scientific machine learning and AI with Science.
+**Research Interest:** Scientific machine learning, deep learning algorithm and interdisciplinary application.
 
 [Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN); 
 [Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634);
@@ -26,15 +25,17 @@ Singapore and BSc degree in Sun Yat-sen University.
 
 <hr>
 <h3 class="text-center">News</h3>
-- No news!
+I am currently exploring new faculty position opportunities. I would greatly appreciate any recommendations or referrals you might be able to provide. Thank you.
 
 <hr>
 
 <h3 class="text-center">Awards</h3>
-- ICIAM 2023 travel support
+
+- Travel Award, 2024 SIAM Northern and Central California Sectional Meeting
+- Travel Award, 2023 International Congress on Industrial and Applied Mathematics
 - CVPR Outstanding Reviewer [Link](https://cvpr2022.thecvf.com/outstanding-reviewers).
 - Ross-Lynn fellowship, Purdue University, 2021-2022.
-- Top Graduate Tutors for AY2019/20 (SGD 100), Department of Mathematics, NUS.
+- Top Graduate Tutors for AY2019/20, Department of Mathematics, NUS.
 - 2020 Thirty-fourth AAAI Conference Scholarship.
 <hr>
 
