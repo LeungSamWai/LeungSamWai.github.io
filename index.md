@@ -85,7 +85,7 @@ I am currently exploring new faculty position opportunities. I would greatly app
 <p class="my-pub-summary">We propose a framework that reformulates the prediction problem as a supervised learning problem to approximate a map that takes the memories of the resolved and identifiable unresolved variables to the missing components in the resolved dynamics.</p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-J Harlim, S Jiang, **S Liang**, H Yang, Journal of Computational Physics 428, 109922 \href{https://link.springer.com/article/10.1007/s42967-020-00085-3}{[PDF]} \href{https://sites.google.com/prod/view/haizhaoyang/software}{[Code]}
+J Harlim, S Jiang, **S Liang**, H Yang, Journal of Computational Physics 428, 109922 [PDF](https://link.springer.com/article/10.1007/s42967-020-00085-3)[Code](https://sites.google.com/prod/view/haizhaoyang/software)
 </p>
 </div>
 </div>
