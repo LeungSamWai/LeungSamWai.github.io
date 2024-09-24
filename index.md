@@ -64,7 +64,7 @@ I am currently exploring new faculty position opportunities. I would greatly app
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
 <p class="my-pub-heading">Solving PDEs on Unknown Manifolds with Machine Learning </p>
-<p class="my-pub-summary">We propose a mesh-free computational framework and machine learning theory for solving elliptic PDEs on unknown manifolds, identified with point clouds, based on diffusion maps (DM) and deep learning. </p>
+<p class="my-pub-summary">We propose mesh-free deep learning method and theory based on diffusion maps for solving elliptic PDEs on unknown manifolds, identified with point clouds. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 **S Liang**, S Jiang, J Harlim, H Yang, Applied and Computational Harmonic Analysis, Volume 71, 101652 [[PDF](https://www.sciencedirect.com/science/article/pii/S1063520324000290) [Code](https://github.com/LeungSamWai/NN4ManifoldPDE)].
@@ -81,8 +81,8 @@ I am currently exploring new faculty position opportunities. I would greatly app
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading">(2019) Machine learning for prediction with missing dynamics</p>
-<p class="my-pub-summary">We propose a framework that reformulates the prediction problem as a supervised learning problem to approximate a map that takes the memories of the resolved and identifiable unresolved variables to the missing components in the resolved dynamics.</p>
+<p class="my-pub-heading">Machine learning for prediction with missing dynamics</p>
+<p class="my-pub-summary">We developed a deep learning method to recover missing dynamics resulting from partial understanding or observation of physical processes and the computational expense of numerical simulations.</p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 J Harlim, S Jiang, **S Liang**, H Yang, Journal of Computational Physics 428, 109922 [PDF](https://link.springer.com/article/10.1007/s42967-020-00085-3)[Code](https://sites.google.com/prod/view/haizhaoyang/software)
