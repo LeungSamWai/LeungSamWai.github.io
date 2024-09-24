@@ -82,7 +82,7 @@ I am currently exploring new faculty position opportunities. I would greatly app
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
 <p class="my-pub-heading">Probing reaction channels via reinforcement learning </p>
-<p class="my-pub-summary">We propose deep learning framework to study rare transition including using reinforcement learning to identify reactive regions and use NN-based PDE solvers to approximate the committor function. </p>
+<p class="my-pub-summary">We propose deep learning framework to study rare transition including using reinforcement learning to identify reactive regions and employing NN-based PDE solver to approximate the committor function. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 **S Liang**, AN Singh, Y Zhu, DT Limmer, C Yang, Machine Learning: Science and Technology 4 (4) 2023 [[PDF](https://iopscience.iop.org/article/10.1088/2632-2153/acfc33/meta), [Code](https://github.com/LeungSamWai/ReinforcementLearning4ReactionChannel)].
