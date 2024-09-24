@@ -63,7 +63,7 @@ I am currently exploring new faculty position opportunities. I would greatly app
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading">Solving PDEs on Unknown Manifolds with Machine Learning </p>
+<p class="my-pub-heading">Solving PDEs on unknown manifolds with machine learning </p>
 <p class="my-pub-summary">We propose mesh-free deep learning method and theory based on diffusion maps for solving elliptic PDEs on unknown manifolds, identified with point clouds. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
@@ -73,21 +73,23 @@ I am currently exploring new faculty position opportunities. I would greatly app
 </div>
 <hr>
 
+
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
 <div class="text-center">
-<img src="/img/iebn.png" class="rounded img-fluid my-profile-picture">
+<img src="/img/AD.png" class="rounded img-fluid my-profile-picture">
 </div>
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
-<p class="my-pub-heading"> Instance Enhancement Batch Normalization: An Adaptive Regulator of Batch Noise</p>
-<p class="my-pub-summary">We developed a new batch normalization to regulate the noise by enhacing instance-specific information.</p>
+<p class="my-pub-heading">Probing reaction channels via reinforcement learning </p>
+<p class="my-pub-summary">We propose deep learning framework to study rare transition including using reinforcement learning to identify reactive regions and use NN-based PDE solvers to approximate the committor function. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-**S Liang**, Z Huang, M Liang, H Yang, Proceedings of the AAAI Conference on Artificial Intelligence 2020 [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5917), [Code](https://github.com/gbup-group/IEBN)].
+**S Liang**, AN Singh, Y Zhu, DT Limmer, C Yang, Machine Learning: Science and Technology 4 (4) 2023 [[PDF](https://iopscience.iop.org/article/10.1088/2632-2153/acfc33/meta), [Code](https://github.com/LeungSamWai/ReinforcementLearning4ReactionChannel)].
 </p>
 </div>
 </div>
+
 <hr>
 
 <div class="row my-pub-main">
@@ -101,7 +103,24 @@ I am currently exploring new faculty position opportunities. I would greatly app
 <p class="my-pub-summary">We developed a deep learning method to recover missing dynamics resulting from partial understanding or observation of physical processes and the computational expense of numerical simulations.</p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-J Harlim, S Jiang, **S Liang**, H Yang, Journal of Computational Physics 428, 109922, 2019 [[PDF](https://link.springer.com/article/10.1007/s42967-020-00085-3), [Code](https://sites.google.com/prod/view/haizhaoyang/software)].
+J Harlim, S Jiang, **S Liang**, H Yang, Journal of Computational Physics 428, 109922, 2021 [[PDF](https://link.springer.com/article/10.1007/s42967-020-00085-3), [Code](https://sites.google.com/prod/view/haizhaoyang/software)].
+</p>
+</div>
+</div>
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/iebn.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading"> Instance enhancement batch normalization: an adaptive regulator of batch noise</p>
+<p class="my-pub-summary">We developed a new batch normalization to regulate the noise by enhacing instance-specific information.</p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+**S Liang**, Z Huang, M Liang, H Yang, Proceedings of the AAAI Conference on Artificial Intelligence 2020 [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5917), [Code](https://github.com/gbup-group/IEBN)].
 </p>
 </div>
 </div>
