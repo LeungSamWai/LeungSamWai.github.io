@@ -52,7 +52,6 @@ I am currently exploring new faculty position opportunities. I would greatly app
 - Conference reviewer: AAAI, CVPR, ECCV, ICCV, ICANN, NeurIPS
 - Journal reviewer: Journal of Scientific Computing, Journal of Vibration and Control
 - Organizer: AMS Sectional meeting at Purdue, the SIAM Texas-Louisiana Section
-- Assistant: IMA Workshop at Purdue
 
 <hr>
 <h3 class="text-center"> Selected publications</h3>
