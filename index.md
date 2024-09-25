@@ -18,6 +18,8 @@ Prior to that, I obtained my PhD from Purdue University, where I was advised by 
 
 **Research Interest:** Scientific machine learning, deep learning algorithm and interdisciplinary application.
 
+**Contact:** senweiliang [at] lbl [dot] gov
+
 [Google scholar](https://scholar.google.com/citations?user=NLNoSBsAAAAJ&hl=zh-CN); 
 [Semantic scholar](https://www.semanticscholar.org/author/Senwei-Liang/116746634);
 [Github](https://github.com/LeungSamWai). 
