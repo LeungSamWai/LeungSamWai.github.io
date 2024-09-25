@@ -6,7 +6,7 @@ layout: home
 <div class="col-md-4 col-sm-4">
 <div class="text-center">
 <img src="/img/photo.png" class="img-fluid my-profile-picture" alt="my picture">
-<p class="my-name">Senwei</p>
+<p class="my-name">senweiliang [at] lbl [dot] gov</p>
 <p class="my-position">PhD</p>
 <p class="my-cv" markdown="1">[CV](/img/cv.pdf) (update on 09/25/2024)</p>
 </div>
@@ -129,9 +129,38 @@ J Harlim, S Jiang, **S Liang**, H Yang, Journal of Computational Physics 428, 10
 
 <h3 class="text-center"> Selected manuscripts</h3>
 <hr>
-
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/vnet.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">Effective many-body interactions in reduced-dimensionality spaces through neural networks </p>
+<p class="my-pub-summary"> We introduce a new paradigm to learn the effective Hamiltonian in data-limited scenario. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+S Liang, K Kowalski, C Yang and NP Bauman, arXiv:2407.05536 [[PDF](https://arxiv.org/abs/2407.05536)].
+</p>
+</div>
 </div>
 
+<hr>
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
+<img src="/img/fex.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">Finite expression method for solving high-dimensional partial differential equations </p>
+<p class="my-pub-summary"> We introduce a sympolic approach for high dimensional PDE that seeks an approximate PDE solution in the space of functions with finitely many analytic expressions and, hence, this methodology is named the finite expression method (FEX). </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+**S Liang**, H Yang, arXiv:2206.10121 [[PDF](https://arxiv.org/abs/2206.10121), [Code](https://github.com/LeungSamWai/Finite-expression-method)].
+</p>
+</div>
+</div>
 <hr>
 
 This page has been accessed at least
