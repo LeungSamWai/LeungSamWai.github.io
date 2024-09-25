@@ -6,14 +6,14 @@ layout: home
 <div class="col-md-4 col-sm-4">
 <div class="text-center">
 <img src="/img/photo.png" class="img-fluid my-profile-picture" alt="my picture">
-<p class="my-name">senweiliang [at] lbl [dot] gov</p>
+<p class="my-name">Senwei Liang</p>
 <p class="my-position">PhD</p>
 <p class="my-cv" markdown="1">[CV](/img/cv.pdf) (update on 09/25/2024)</p>
 </div>
 </div>
 
 <div class="col-md-7 col-sm-7" markdown="1">
-Hi there! I'm Senwei Liang. I joined Lawrence Berkeley National Laboratory in August 2022 as a postdoc, working under the supervision of Professors Chao Yang and Lin Lin.
+Hi there! I joined Lawrence Berkeley National Laboratory in August 2022 as a postdoc, working under the supervision of Professors Chao Yang and Lin Lin.
 Prior to that, I obtained my PhD from Purdue University, where I was advised by Professor [Haizhao Yang](https://haizhaoyang.github.io/). Before my doctoral studies, I earned my MSc degree from the National University of Singapore and my BSc from Sun Yat-sen University.
 
 **Research Interest:** Scientific machine learning, deep learning algorithm and interdisciplinary application.
