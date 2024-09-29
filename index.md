@@ -28,12 +28,11 @@ Prior to that, I obtained my PhD from Purdue University, where I was advised by 
 
 <hr>
 <h3 class="text-center">News</h3>
-I am currently exploring new faculty position opportunities. I would greatly appreciate any recommendations or referrals you might be able to provide. Thank you.
-
+- [Top] :smile: :smile: I am currently exploring new faculty position opportunities. I would greatly appreciate any recommendations or referrals you might be able to provide. Thank you.
+- [09/29/2024] The journal extension of DIA has been accepted by Neurocomputing. Many thanks to all the collaborators for their efforts!
 <hr>
 
 <h3 class="text-center">Awards</h3>
-
 - Travel Award, 2024 SIAM Northern and Central California Sectional Meeting
 - Travel Award, 2023 International Congress on Industrial and Applied Mathematics
 - CVPR Outstanding Reviewer [Link](https://cvpr2022.thecvf.com/outstanding-reviewers).
@@ -42,7 +41,7 @@ I am currently exploring new faculty position opportunities. I would greatly app
 - 2020 Thirty-fourth AAAI Conference Scholarship.
 <hr>
 
-<h3 class="text-center">Work Experience</h3>
+<h3 class="text-center">Positions</h3>
 - Postdoc at Lawrence Berkeley National Laboratory, from Aug 2022 to present.
 - Wallace Givens Associate at Argonne National Laboratory mentored by [Dr. Hong Zhang](https://caidao22.github.io/), from May 2021 to Jul 2021.
 - Research Assistant at Computational Medical Imaging Laboratory mentored by [Prof. Yao Lu](https://ieeexplore.ieee.org/author/37086386972), from Jun 2016 to Jan 2017.
