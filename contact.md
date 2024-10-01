@@ -10,6 +10,24 @@ layout: page
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
 <div class="text-center">
+<img src="/img/dog.png" class="rounded img-fluid my-profile-picture">
+</div>
+</div>
+<div class="col-12 col-sm-8 my-pub-r">
+<p class="my-pub-heading">(2024) A Generic Shared Attention Mechanism for Various Backbone Neural Networks </p>
+<p class="my-pub-summary"> Self-attention modules (SAMs) produce highly correlated attention maps across layers, leading to suboptimal performance. Dense-and-Implicit Attention (DIA) addresses this by sharing SAMs across layers and using LSTM to bridge correlations, improving efficiency, regularization, and performance across tasks like classification, detection, and generation. </p>
+<div style="margin-bottom: 10px;"></div>
+<p markdown="1">
+Z. Huang, S. Liang, M. Liang, W. He, L Lin, Nuerocomputing, accepted  [[PDF](https://arxiv.org/pdf/2210.16101), [Code](https://github.com/gbup-group/DIANet)].
+</p>
+</div>
+</div>
+
+<hr>
+
+<div class="row my-pub-main">
+<div class="col-12 col-sm-4">
+<div class="text-center">
 <img src="/img/shotassig.png" class="rounded img-fluid my-profile-picture">
 </div>
 </div>
@@ -18,7 +36,7 @@ layout: page
 <p class="my-pub-summary"> The paper proposes a reinforcement learning approach to optimize shot allocation in Variational Quantum Eigensolver for approximating molecular ground state energies. The RL agent learns shot assignment policies across VQE iterations to minimize total shots while achieving convergence, reducing reliance on hand-crafted heuristics. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-S. Liang, L. Zhu, C. Yang, X. Li (Joint first) Submitted [[PDF](https://arxiv.org/pdf/2405.02493), [Code](https://github.com/Linghua-Zhu/RL-Quantum-Measurement-Optimization)].
+S. Liang, L. Zhu, C. Yang, X. Li, Chemical Physics Reviews, accepted  [[PDF](https://arxiv.org/pdf/2405.02493), [Code](https://github.com/Linghua-Zhu/RL-Quantum-Measurement-Optimization)].
 </p>
 </div>
 </div>
