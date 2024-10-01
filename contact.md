@@ -15,7 +15,7 @@ layout: page
 </div>
 <div class="col-12 col-sm-8 my-pub-r">
 <p class="my-pub-heading">(2024) A Generic Shared Attention Mechanism for Various Backbone Neural Networks </p>
-<p class="my-pub-summary"> Self-attention modules (SAMs) produce highly correlated attention maps across layers, leading to suboptimal performance. Dense-and-Implicit Attention (DIA) addresses this by sharing SAMs across layers and using LSTM to bridge correlations, improving efficiency, regularization, and performance across tasks like classification, detection, and generation. </p>
+<p class="my-pub-summary"> Dense-and-Implicit Attention shares SAMs across layers and uses LSTM to bridge correlations, improving efficiency, regularization, and performance across tasks like classification, detection, and generation. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
 Z. Huang, S. Liang, M. Liang, W. He, L Lin, Nuerocomputing, accepted  [[PDF](https://arxiv.org/pdf/2210.16101), [Code](https://github.com/gbup-group/DIANet)].
