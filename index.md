@@ -13,7 +13,7 @@ layout: home
 </div>
 
 <div class="col-md-7 col-sm-7" markdown="1">
-Hi there! I joined Lawrence Berkeley National Laboratory in August 2022 as a postdoc, working under the supervision of Professors Chao Yang and Lin Lin.
+Hi there! I joined Lawrence Berkeley National Laboratory in August 2022 as a postdoc, working under the supervision of Dr Chao Yang.
 Prior to that, I obtained my PhD from Purdue University, where I was advised by Professor [Haizhao Yang](https://haizhaoyang.github.io/). Before my doctoral studies, I earned my MSc degree from the National University of Singapore and my BSc from Sun Yat-sen University.
 
 **Research Interest:** Scientific machine learning, deep learning algorithm and interdisciplinary application.
