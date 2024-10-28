@@ -8,7 +8,7 @@ layout: home
 <img src="/img/photo.png" class="img-fluid my-profile-picture" alt="my picture">
 <p class="my-name">Senwei Liang</p>
 <p class="my-position">PhD</p>
-<p class="my-cv" markdown="1">[CV](/img/cv.pdf) (update on 10/14/2024)</p>
+<p class="my-cv" markdown="1">[CV](/img/cv.pdf) (update on 10/28/2024)</p>
 </div>
 </div>
 
