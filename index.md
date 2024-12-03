@@ -29,9 +29,10 @@ Prior to that, I obtained my PhD from Purdue University, where I was advised by 
 <hr>
 <h3 class="text-center">News</h3>
 - [&#x1F51D;] I am currently exploring new faculty position opportunities. I would greatly appreciate any recommendations or referrals you might be able to provide. Thank you.
-- [10/10/2024] &#x1F680; AlterSGD has been accepted by Multimedia Modeling 2025. Many thanks to all the collaborators for their efforts!
-- [09/30/2024] &#x1F680; AI-driven VQE has been accepted by Chemical Physics Reviews. Many thanks to all the collaborators for their efforts!
-- [09/29/2024] &#x1F680; The journal extension of DIA has been accepted by Neurocomputing. Many thanks to all the collaborators for their efforts!
+- [12/01/2024] &#x1F680; Our paper on learning the effective many-body interactions was accepted by Physical Review Research! Many thanks to all the collaborators for their efforts!
+- [10/10/2024] &#x1F680; AlterSGD has been accepted by Multimedia Modeling 2025.
+- [09/30/2024] &#x1F680; AI-driven VQE has been accepted by Chemical Physics Reviews. 
+- [09/29/2024] &#x1F680; The journal extension of DIA has been accepted by Neurocomputing.
 <hr>
 
 <h3 class="text-center">Awards</h3>
