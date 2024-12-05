@@ -130,8 +130,6 @@ J Harlim, S Jiang, **S Liang**, H Yang, Journal of Computational Physics 428, 10
 </div>
 <hr>
 
-
-<h3 class="text-center"> Selected manuscripts</h3>
 <hr>
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
@@ -144,10 +142,14 @@ J Harlim, S Jiang, **S Liang**, H Yang, Journal of Computational Physics 428, 10
 <p class="my-pub-summary"> We introduce a new paradigm to learn the effective Hamiltonian in data-limited scenario. </p>
 <div style="margin-bottom: 10px;"></div>
 <p markdown="1">
-S Liang, K Kowalski, C Yang and NP Bauman, arXiv:2407.05536 [[PDF](https://arxiv.org/abs/2407.05536)].
+S Liang, K Kowalski, C Yang and NP Bauman, accepted by Physical Review Research [[PDF](https://arxiv.org/abs/2407.05536)].
 </p>
 </div>
 </div>
+
+
+<h3 class="text-center"> Selected manuscripts</h3>
+
 
 <hr>
 <div class="row my-pub-main">
