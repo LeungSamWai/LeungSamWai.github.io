@@ -8,7 +8,7 @@ layout: home
 <img src="/img/photo.png" class="img-fluid my-profile-picture" alt="my picture">
 <p class="my-name">Senwei Liang</p>
 <p class="my-position">PhD</p>
-<p class="my-cv" markdown="1">[CV](/img/cv.pdf) (update on 10/28/2024)</p>
+<p class="my-cv" markdown="1">[CV](/img/CV1.pdf) (update on 01/28/2025)</p>
 </div>
 </div>
 
@@ -54,8 +54,8 @@ Prior to that, I obtained my PhD from Purdue University, where I was advised by 
 <h3 class="text-center">Academic Service</h3>
 
 - Conference reviewer: AAAI, CVPR, ECCV, ICCV, ICANN, NeurIPS
-- Journal reviewer: Journal of Scientific Computing, Journal of Vibration and Control
-- Organizer: AMS Sectional meeting at Purdue, the SIAM Texas-Louisiana Section
+- Journal reviewer: Journal of Scientific Computing, Journal of Vibration and Control and so on
+- Organizer: AMS Sectional meeting at Purdue, the SIAM Texas-Louisiana Section and so on
 
 <hr>
 <h3 class="text-center"> Selected publications</h3>
@@ -130,7 +130,6 @@ J Harlim, S Jiang, **S Liang**, H Yang, Journal of Computational Physics 428, 10
 </div>
 <hr>
 
-<hr>
 <div class="row my-pub-main">
 <div class="col-12 col-sm-4">
 <div class="text-center">
@@ -146,7 +145,7 @@ S Liang, K Kowalski, C Yang and NP Bauman, accepted by Physical Review Research 
 </p>
 </div>
 </div>
-
+<hr>
 
 <h3 class="text-center"> Selected manuscripts</h3>
 
