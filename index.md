@@ -8,7 +8,7 @@ layout: home
 <img src="/img/photo.png" class="img-fluid my-profile-picture" alt="my picture">
 <p class="my-name">Senwei Liang</p>
 <p class="my-position">PhD</p>
-<p class="my-cv" markdown="1">[CV](/img/CV1.pdf) (update on 01/28/2025)</p>
+<p class="my-cv" markdown="1">[CV](/img/cv.pdf) (update on 01/29/2025)</p>
 </div>
 </div>
 
@@ -29,6 +29,8 @@ Prior to that, I obtained my PhD from Purdue University, where I was advised by 
 <hr>
 <h3 class="text-center">News</h3>
 - [&#x1F51D;] I am currently exploring new faculty position opportunities. I would greatly appreciate any recommendations or referrals you might be able to provide. Thank you.
+- [01/29/2025] Applying NN to explore the nexus of many-body theories is avilable on [arxiv](https://arxiv.org/abs/2501.15792)
+- [01/01/2025] Collaborative research with an undergraduate student on the finite expression method for learning epidemiology systems is now available on [arXiv](https://arxiv.org/pdf/2412.21049)
 - [12/01/2024] &#x1F680; Our paper on learning the effective many-body interactions was accepted by Physical Review Research! Many thanks to all the collaborators for their efforts!
 - [10/10/2024] &#x1F680; AlterSGD has been accepted by Multimedia Modeling 2025. This work will be presented in [**BEST PAPER SESSION**](https://mmm2025.net/conference/#program-at-a-glance) 	&#x1F3AF;. 
 - [09/30/2024] &#x1F680; AI-driven VQE has been accepted by Chemical Physics Reviews. 
