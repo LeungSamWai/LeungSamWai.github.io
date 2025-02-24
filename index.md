@@ -28,7 +28,7 @@ Prior to that, I obtained my PhD from Purdue University, where I was advised by 
 
 <hr>
 <h3 class="text-center">News</h3>
-- [&#x1F51D;] I am currently exploring new faculty position opportunities. I would greatly appreciate any recommendations or referrals you might be able to provide. Thank you.
+- [&#x1F51D;] I am currently exploring new faculty/industrial position opportunities. Greatly appreciate any referrals you might be able to provide. Thank you!
 - [01/29/2025] Applying NN to explore the nexus of many-body theories is avilable on [arxiv](https://arxiv.org/abs/2501.15792)
 - [01/01/2025] Collaborative research with an undergraduate student on the finite expression method for learning epidemiology systems is now available on [arXiv](https://arxiv.org/pdf/2412.21049)
 - [12/01/2024] &#x1F680; Our paper on learning the effective many-body interactions was accepted by Physical Review Research! Many thanks to all the collaborators for their efforts!
