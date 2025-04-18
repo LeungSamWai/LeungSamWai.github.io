@@ -28,13 +28,7 @@ Prior to that, I obtained my PhD from Purdue University, where I was advised by 
 
 <hr>
 <h3 class="text-center">News</h3>
-- [&#x1F51D;] I am currently exploring new faculty/industrial position opportunities. Greatly appreciate any referrals you might be able to provide. Thank you!
-- [01/29/2025] Applying NN to explore the nexus of many-body theories is avilable on [arxiv](https://arxiv.org/abs/2501.15792)
-- [01/01/2025] Collaborative research with an undergraduate student on the finite expression method for learning epidemiology systems is now available on [arXiv](https://arxiv.org/pdf/2412.21049)
-- [12/01/2024] &#x1F680; Our paper on learning the effective many-body interactions was accepted by Physical Review Research! Many thanks to all the collaborators for their efforts!
-- [10/10/2024] &#x1F680; AlterSGD has been accepted by Multimedia Modeling 2025. This work will be presented in [**BEST PAPER SESSION**](https://mmm2025.net/conference/#program-at-a-glance) 	&#x1F3AF;. 
-- [09/30/2024] &#x1F680; AI-driven VQE has been accepted by Chemical Physics Reviews. 
-- [09/29/2024] &#x1F680; The journal extension of DIA has been accepted by Neurocomputing.
+- [04/15/2025] &#x1F680;
 <hr>
 
 <h3 class="text-center">Awards</h3>
